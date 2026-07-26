@@ -2,7 +2,7 @@
 tags: [Control, Condicionales, Programa Interactivo]
 ---
 
-# Pregunta 1
+# Notas Control
 
 Al inicio de un curso, el Equipo Docente informa cuántos controles se realizará: 1, 2 o 3 controles; además del examen.
 Dependiendo del número de controles, la Nota Final se calcula según se indica en la tabla.

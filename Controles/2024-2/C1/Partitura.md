@@ -2,7 +2,7 @@
 tags: [Control, Recursión, Condicionales, Módulos, Programa Interactivo]
 ---
 
-# Pregunta 2
+# Partitura
 La siguiente tabla muestra las notas y las figuras musicales:
 
 | **Nota Musical**           |                  | **Figura Musical**                 |         |         |

@@ -1,7 +1,7 @@
 ---
 tags: [Control, Funciones, Módulos, Programa Interactivo]
 ---
-# **[C1 2017-2]** Números Romanos
+# Números Romanos [C1 2017-2]
 
 El modulo de nombre romano contiene las funciones que se indican
 en la siguiente tabla:
