@@ -1,4 +1,5 @@
 ---
+titulo: El dado 🎲
 tags: [Control, Clases y Objetos]
 ---
 

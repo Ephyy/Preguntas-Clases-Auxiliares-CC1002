@@ -1,4 +1,5 @@
 ---
+titulo: Árboles Lógicos
 tags: [Control, Árboles Binarios]
 ---
 

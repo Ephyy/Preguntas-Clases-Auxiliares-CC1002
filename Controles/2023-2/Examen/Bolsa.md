@@ -1,4 +1,5 @@
 ---
+titulo: La Bolsa 📦🍬
 tags: [Control, Clases y Objetos]
 ---
 
