@@ -1,8 +1,8 @@
 ---
-tags: [Arboles Binarios, ABB]
+tags: [Árboles Binarios, ABB]
 ---
 
-# Arboles de canciones
+# Árboles de Canciones
 
 El gran `DJAlvarez` está preparando su repertorio de canciones para su concierto de fin de año. Para ello, utiliza un Árbol de Búsqueda Binaria (ABB) donde guarda las canciones, y cada canción es representada como una estructura, que almacena su nombre y duración en segundos (el ABB está ordenado por duración, y puede asumir que no hay dos canciones que duran lo mismo).
 

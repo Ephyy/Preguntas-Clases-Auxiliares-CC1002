@@ -1,5 +1,4 @@
 ---
-titulo: Listas Complementarias
 tags: [Control, Listas Recursivas]
 ---
 

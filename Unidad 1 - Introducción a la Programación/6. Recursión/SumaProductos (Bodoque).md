@@ -1,5 +1,5 @@
 ---
-tags: [Recursion]
+tags: [Recursión]
 ---
 
 # Bodoque Triste
