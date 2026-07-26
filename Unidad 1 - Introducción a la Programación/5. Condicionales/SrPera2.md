@@ -9,7 +9,7 @@ curso “*Cálculos Modernos*”, ya que no le ha ido muy bien. Este curso const
 controles y un examen, y su amigo ya ha dado los dos primeros controles.
 
 Como usted es una persona humilde y de buen corazón, decide prestarle ayuda para
-calmar su pera. Para esto utilizar´a sus magnificas habilidades en Python para realizar
+calmar su pera. Para esto utilizará sus magnificas habilidades en Python para realizar
 tan magna tarea. Procederemos como sigue:
 
 **a)** Cree la función `notaPara4(c1,c2)` , que reciba las   notas de los dos primeros
