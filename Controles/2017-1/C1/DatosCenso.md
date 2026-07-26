@@ -1,5 +1,5 @@
 ---
-title: Datos del Censo
+titulo: Datos del Censo
 tags: [Control, Recursión]
 ---
 
