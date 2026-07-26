@@ -2,7 +2,7 @@
 tags: [Condicionales, Programa Interactivo, Módulos]
 ---
 
-# Sr Pera 1
+# Sr Pera 1 (Variante 1)
 
 El Sr. Pera, anticipándose al fin de semestre, desea hacer un programa en Python que le permita calcular la mínima nota que necesita en el examen para pasar directamente, o en su defecto, irse al examen de segunda. Para esto, consideraremos los siguientes criterios:
 - Solo consideraremos el caso con 3 controles, y las notas se redondean al primer decimal.

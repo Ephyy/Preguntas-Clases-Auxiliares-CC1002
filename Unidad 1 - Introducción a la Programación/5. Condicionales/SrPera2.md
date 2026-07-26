@@ -2,7 +2,7 @@
 tags: [Condicionales, Función Interactiva]
 ---
 
-# Sr Pera 2
+# Sr Pera (Variante 2)
 
 Un muy amigo suyo de la “Universidad del Colo-Colo” esta aproblemado con el
 curso “*Cálculos Modernos*”, ya que no le ha ido muy bien. Este curso consta de 3
