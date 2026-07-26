@@ -1,3 +1,7 @@
+---
+tags: [Árboles Binarios]
+---
+
 # Árboles Pitagóricos
 
 Un árbol binario de números se dice que es **pitagórico** si cumple, para todos sus nodos que no son hojas, que el valor del nodo, junto a los valores de sus ramas izquierda y derecha, cumplen la relación:

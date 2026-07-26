@@ -1,3 +1,7 @@
+---
+tags: [Clases y Objetos]
+---
+
 # Concursos y Sorteos 🚪🚪💰
 
 En el concurso de las puertas, se tiene un conjunto de `N` puertas, donde:

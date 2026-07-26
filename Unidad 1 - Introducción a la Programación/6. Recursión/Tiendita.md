@@ -1,5 +1,5 @@
 ---
-tags: [Recursion, Módulos]
+tags: [Recursión, Módulos]
 ---
 
 # Tiendita

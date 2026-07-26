@@ -1,3 +1,7 @@
+---
+tags: [Clases y Objetos]
+---
+
 # El Trineo de Santa (Parte 1) 🦌🎁🎄
 
 Se acerca Navidad! (Y nosotros aún aquí uwu) Y nuestro queride Santa, para traer la felicidad a todos los niños y niñas del mundo, le pide ayuda a usted en la preparación de los trineos para repartir los regalos. Para ello se le suministra a usted la siguiente definición y métodos de la clase Trineo:

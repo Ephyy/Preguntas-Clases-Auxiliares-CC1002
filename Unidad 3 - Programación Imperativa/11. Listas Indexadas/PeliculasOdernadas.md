@@ -1,3 +1,7 @@
+---
+tags: [Listas Indexadas]
+---
+
 # ¿Lista ordenada? 🔤✅
 
 A Cindy le gustan mucho las películas, por lo que tiene un estante lleno de películas, las cuales se encuentran ordenadas por nombre, de menor a mayor. El problema es que su gato constantemente se sube al estante y le bota/desordena todas las películas, por lo que cada cierto tiempo tiene que estar mirando que su gato no ha causado caos y desordenado su colección.

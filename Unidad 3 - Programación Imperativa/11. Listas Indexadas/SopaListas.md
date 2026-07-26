@@ -1,3 +1,7 @@
+---
+tags: [Listas Indexadas]
+---
+
 # Sopa de Listas 📋
 
 A continuación, tenemos varios ejercicios misceláneos, donde hay que utilizar conocimientos de listas y ciclos para resolverlos.

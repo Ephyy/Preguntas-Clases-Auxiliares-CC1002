@@ -1,3 +1,7 @@
+---
+tags: [Archivos, Listas Indexadas]
+---
+
 # Contar Palabras 🔤
 
 A Vicente le gustan mucho las historias y fábulas infantiles, las cuales guarda en archivos de texto como el siguiente:

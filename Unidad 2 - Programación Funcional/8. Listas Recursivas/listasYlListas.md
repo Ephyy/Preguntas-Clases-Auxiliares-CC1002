@@ -1,3 +1,7 @@
+---
+tags: [Listas Recursivas]
+---
+
 # Listas y Listas
 Vamos a subir un nivel de dificultad, y vamos a trabajar con dos listas a la vez!
 ```python

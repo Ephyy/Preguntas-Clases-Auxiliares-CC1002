@@ -1,5 +1,5 @@
 ---
-tags: [Condicionales, Programas Interactivos]
+tags: [Condicionales, Programa Interactivo]
 ---
 
 # Gato Mágico

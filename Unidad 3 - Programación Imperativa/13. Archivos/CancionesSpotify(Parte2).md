@@ -1,3 +1,7 @@
+---
+tags: [Archivos, Listas Indexadas]
+---
+
 # Canciones de Spotify 2.0 🟢🎧
 
 En este problema, nuevamente trabajaremos con una ya conocida playlist de canciones. Tal playlist se encuentra en un archivo de texto como el siguiente:

@@ -1,3 +1,7 @@
+---
+tags: [Listas Indexadas]
+---
+
 # Sopa de Letras 🍲
 
 El día de ayer, usted estaba muy aburrido(a) estudiando para el control fome del viernes. Para hacer más amena su velada, decidió hacer una sopa de letras. Al ver los resultados de sus artes culinarias, tuvo una idea muy entretenida (?), de modelar una sopa de letras como una lista de `string`, como la siguiente:

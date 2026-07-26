@@ -1,3 +1,7 @@
+---
+tags: [Listas Recursivas]
+---
+
 # Monstruos 👾
 
 La empresa Monsters Inc. es una empresa dedicada a asustar a los niñas(os) para obtener energía a partir de sus gritos (de manera similar a lo que hace cierta facultad de ingeniería y sus evaluaciones demoníacas). La gerencia de esta empresa le pide ayuda para modelar algunas estimaciones y situaciones de emergencia que pudiesen ocurrir mientras se "recolecta" energía, para lo cual usted decide usar estructuras para representar a los Monstruos, y listas para representar un conjunto de Monstruos.

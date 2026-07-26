@@ -1,3 +1,7 @@
+---
+tags: [Diccionarios]
+---
+
 # Tienda de Ropa 👗👢🎀🧣
 
 Nicolás trabaja en una tienda súper conocida del retail, llamada *Falaferia*. En ella, mantienen el inventario de las poleras que tienen en bodega mediante un diccionario, donde la llave es el color de la polera, y el valor asociado a cada color es una lista con las tallas disponibles para las poleras de ese color.

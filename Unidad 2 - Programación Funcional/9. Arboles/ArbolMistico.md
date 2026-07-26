@@ -1,3 +1,7 @@
+---
+tags: [Árboles Binarios]
+---
+
 # Árbol Místico
 
 En el antiguo reino de _bochef_, existía un árbol místico, que producía una diversidad de frutos, los cuales al ser consumidos, permitían obtener conocimiento y confidencia para aprobar todos los controles. El Concilio de la Torre Perimetral (CTP) decidió ocultar este árbol místico, entre otros arboles paganos de similares características, pero que el consumo de sus frutos solo traía dudas y desesperación. 

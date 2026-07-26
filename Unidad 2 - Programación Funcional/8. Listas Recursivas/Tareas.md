@@ -1,3 +1,7 @@
+---
+tags: [Listas Recursivas]
+---
+
 # Lista de Tareas 📝
 
 Una persona muy organizada quiere estructurar las distintas tareas cotidianas (y no tanto) que tiene que hacer, con ayuda de una lista de tareas. Esto se puede representar con la siguiente estructura:

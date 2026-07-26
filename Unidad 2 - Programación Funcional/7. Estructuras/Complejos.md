@@ -1,3 +1,7 @@
+---
+tags: [Estructuras]
+---
+
 # Números complejos
 
 Un número complejo $z$ se define de la forma $z = a + bi$, con $a,b \in \mathbb{R}$. Llamamos **parte real** del complejo $z$ a $a$, y **parte imaginaria** a $b$.

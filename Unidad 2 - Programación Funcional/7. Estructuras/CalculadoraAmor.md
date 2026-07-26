@@ -1,3 +1,7 @@
+---
+tags: [Estructuras]
+---
+
 # Calculadora del amor
 
 En este ejercicio, queremos ver qué tan compatibles son dos personas usando un poco de código.

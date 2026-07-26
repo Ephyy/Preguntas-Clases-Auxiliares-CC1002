@@ -1,5 +1,5 @@
 ---
-tags: [Arboles Binarios]
+tags: [Árboles Binarios]
 ---
 
 # Arboles Magnéticos

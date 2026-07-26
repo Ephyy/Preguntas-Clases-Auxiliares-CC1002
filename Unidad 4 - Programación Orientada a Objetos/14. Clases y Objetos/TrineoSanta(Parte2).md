@@ -1,3 +1,7 @@
+---
+tags: [Clases y Objetos]
+---
+
 # Se acerca la Navidad (Parte 2)🎅🏻☃️🎄
 Santa ha quedado muy feliz con la implementación de la Clase Trineo realizada en la pregunta anterior. Ahora para salvar la navidad, le pide ayuda para implementar las siguientes funciones, que trabajan con objetos Trineo:
 

@@ -1,3 +1,7 @@
+---
+tags: [Diccionarios]
+---
+
 # Mascotas 🐶🐱
 
 Como una actividad diferente y creativa, en cierto curso de CC1002 se propone realizar un conteo de las mascotas que los/las estudiantes poseen, para luego ver cuál es la mascota más preferida por la mayoría.

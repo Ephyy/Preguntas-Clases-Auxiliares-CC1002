@@ -1,3 +1,7 @@
+---
+tags: [Listas Recursivas]
+---
+
 # Notas de Cursos 🧮
 
 En cierta universidad, la información de las notas de un(a) estudiante se guarda en una lista de estructuras:

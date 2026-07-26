@@ -1,3 +1,7 @@
+---
+tags: [Árboles Binarios]
+---
+
 # Árbol de claves 🔒🔑
 
 En la casa de su mejor amigo(a) hay un refrigerador con una inmensurable cantidad de helado, pero está protegido por un sistema de contraseñas. Cada persona en la familia posee una clave particular, y para abrir el refrigerador se requieren 3 claves distintas (lo que quiere decir que al menos 3 personas quieren comer helado, y así se evita que alguien decida comerse todas las reservas de helado). En más de una ocasión han deseado comer helado para ver películas en Netflix, pero no hay suficiente gente en la casa para abrir el refrigerador, por lo que se proponen **hackear** el sistema.

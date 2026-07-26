@@ -1,3 +1,7 @@
+---
+tags: [Estructuras]
+---
+
 # Tamagotchi
 
 En este ejercicio, tenemos la misión de revivir a los conocidos *Tamagotchi*, ya que su Profesor de Cátedra nunca tuvo la oportunidad de jugar con uno durante su infancia.

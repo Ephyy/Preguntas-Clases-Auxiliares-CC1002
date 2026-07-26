@@ -1,3 +1,7 @@
+---
+tags: [Árboles Binarios]
+---
+
 # Podando un árbol ✂️🌳
 
 Para un árbol binario cualquiera, se dice que se quiere realizar una operación de **podado** cuando se quieren recortar (eliminar) todas sus hojas.

@@ -1,3 +1,7 @@
+---
+tags: [Clases y Objetos, Interacción entre Objetos]
+---
+
 # Michigatitos 🐈⚔️
 
 En una nueva iniciativa para aumentar la procastinación en las semanas previas a los exámenes, ha aparecido un nuevo juego conocido como `Michigatitos`

@@ -1,3 +1,7 @@
+---
+tags: [Archivos]
+---
+
 # La Pauta 📝✔️❌
 
 En una prueba de alternativas (con 4 alternativas por pregunta), se cuenta con el archivo ```pauta.txt```, que como su nombre lo dice, contiene la respuesta correcta a cada pregunta, linea por linea:

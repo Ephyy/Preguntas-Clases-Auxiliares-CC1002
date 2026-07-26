@@ -1,3 +1,7 @@
+---
+tags: [Archivos, Listas Indexadas]
+---
+
 # Canciones de Spotify 🟢🎧
 
 Una persona muy computina guarda la información de sus canciones favoritas en un archivo de texto como el siguiente:
