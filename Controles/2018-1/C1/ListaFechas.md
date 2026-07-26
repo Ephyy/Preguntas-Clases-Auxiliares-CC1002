@@ -1,5 +1,4 @@
 ---
-titulo: Lista de Fechas
 tags: [Control, Listas Indexadas]
 ---
 

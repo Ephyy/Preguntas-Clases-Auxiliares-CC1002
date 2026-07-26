@@ -1,5 +1,4 @@
 ---
-titulo: Torniquetes 851
 tags: [Control, Listas Recursivas, Estructura]
 ---
 

@@ -1,5 +1,4 @@
 ---
-titulo: Árboles Celulares
 tags: [Control, Árboles Binarios]
 ---
 
