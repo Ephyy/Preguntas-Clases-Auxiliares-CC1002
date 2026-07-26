@@ -1,5 +1,5 @@
 ---
-tags: [Recursion]
+tags: [Recursión]
 ---
 
 # PrimeCraft 🪨 ⛏
@@ -9,5 +9,4 @@ a) Ayude a Pepito a crear una función llamada `minarPrimos(n)` que muestra en p
 
 **Nota:** Puede asumir como conocida la función `esPrimo(n)` vista en clases.
 
-b) Al ver que Pepito estaba ganando muchos premios, los desarrolladores decidieron aumentar la dificultad del juego, y ahora hay que encontrar todos los primos entre A y B, ambos enteros, con A < B. Pero como Pepito nunca se ha rendido ante la adversidad, le vuelve a pedir ayuda, para crear la
-función `minarIntervalo(a, b)` que muestra en pantalla todos los números primos entre a y b.
+b) Al ver que Pepito estaba ganando muchos premios, los desarrolladores decidieron aumentar la dificultad del juego, y ahora hay que encontrar todos los primos entre A y B, ambos enteros, con A < B. Pero como Pepito nunca se ha rendido ante la adversidad, le vuelve a pedir ayuda, para crear la función `minarIntervalo(a, b)` que muestra en pantalla todos los números primos entre a y b.

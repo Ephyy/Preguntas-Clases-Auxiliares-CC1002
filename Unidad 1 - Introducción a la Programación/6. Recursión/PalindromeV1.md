@@ -1,7 +1,8 @@
 ---
-tags: [Recursion]
+tags: [Recursión]
 ---
-# Palindrome
+
+# Palindrome (Variante 1)
 
 Un dia mirando uno de los ventanales de la facultad, notó que ocurre un fenómeno curioso… todo lo que se ve en el espejo, está reflejado, sean números, diseños o pautas de controles. Preguntándose si es posible hacer algo parecido en Python, se propone a programar lo siguiente:
 

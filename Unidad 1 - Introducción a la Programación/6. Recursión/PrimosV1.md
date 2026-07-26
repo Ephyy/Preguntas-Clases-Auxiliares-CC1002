@@ -1,8 +1,8 @@
 ---
-tags: [Recursion]
+tags: [Recursión]
 ---
 
-# Números Primos
+# Números Primos (Variante 1)
 
 a) Cree una función llamada `esPrimo(n)` , que entrega True si n es primo y False si no.
 Recuerde que un numero primo es aquel que solo puede ser dividido por 1 y por si mismo. \

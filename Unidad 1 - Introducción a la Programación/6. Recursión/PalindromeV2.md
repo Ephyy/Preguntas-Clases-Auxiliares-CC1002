@@ -2,7 +2,7 @@
 tags: [Recursion, Programa Interactivo, Función Interactiva]
 ---
 
-# Palindrome V2
+# Palindrome (Variante 2)
 
 a) Cree una función llamada `invertir(n)`, que recibe un numero entero no negativo, y entrega el mismo numero con sus dígitos en el orden inverso.
 

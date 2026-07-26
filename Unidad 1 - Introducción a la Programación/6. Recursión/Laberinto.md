@@ -1,3 +1,7 @@
+---
+tags: [Recursión]
+---
+
 # Escapando del Laberinto 🧩
 
 Buscando las pautas legendarias en el edificio escuela, ha caído en una trampa oculta, por lo que cayó en las catacumbas de 850, donde todo está muy oscuro, hay interminables pasillos y no se ve una salida.

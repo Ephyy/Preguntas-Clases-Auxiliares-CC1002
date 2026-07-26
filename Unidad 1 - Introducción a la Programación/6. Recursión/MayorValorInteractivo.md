@@ -1,5 +1,5 @@
 ---
-tags: [Recursion, Programa Interactivo]
+tags: [Recursión, Programa Interactivo]
 ---
 
 # Mayor Valor Interactivo
