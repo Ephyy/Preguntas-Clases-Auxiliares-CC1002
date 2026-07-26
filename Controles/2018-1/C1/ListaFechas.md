@@ -1,3 +1,7 @@
+---
+tags: [Control, Listas Indexadas]
+---
+
 # Listas de Fechas (P2-A C1 2018-01)
 
 Una fecha puede ser representada como un número entero de la forma `AAAAMMDD`. Por ejemplo, `20180503` representa la fecha **3 de mayo de 2018**.

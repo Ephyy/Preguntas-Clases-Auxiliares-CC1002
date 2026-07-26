@@ -1,5 +1,5 @@
 ---
-tags: [Pregunta Control, Condicionales, Programa Interactivo]
+tags: [Control, Condicionales, Programa Interactivo]
 ---
 
 # Pregunta 1

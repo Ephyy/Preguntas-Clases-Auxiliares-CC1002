@@ -1,3 +1,7 @@
+---
+tags: [Control, Listas Recursivas]
+---
+
 # Listas Complementarias (P2-A C1 2022-01)
 
 Para esta pregunta consideraremos que estamos trabajando en el conjunto con los números enteros del 1 al 100 (inclusive). 

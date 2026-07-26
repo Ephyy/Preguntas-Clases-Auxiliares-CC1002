@@ -1,3 +1,7 @@
+---
+tags: [Control, Listas Recursivas, Estructura]
+---
+
 # Listas de Torniquetes (P1 C2 2019-02)
 
 Los torniquetes de entrada a la facultad manejan una lista que mantiene el RUT de las personas que ingresan y la cantidad de veces que han ingresado durante el día:

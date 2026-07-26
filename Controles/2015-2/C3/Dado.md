@@ -1,3 +1,7 @@
+---
+tags: [Control, Clases y Objetos]
+---
+
 # El dado 🎲 (C3-2015-02 P2)
 
 La Clase `Dado` posee los métodos indicados en la siguiente Tabla:

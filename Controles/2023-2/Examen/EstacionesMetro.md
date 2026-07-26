@@ -1,3 +1,7 @@
+---
+tags: [Control, Listas Recursivas]
+---
+
 # Estaciones de Metro (EX-2023-02 P2)
 
 Los nombres de las estaciones de una línea del Metro se pueden representar en una lista recursiva. Por ejemplo:

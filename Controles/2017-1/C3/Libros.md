@@ -1,6 +1,7 @@
 ---
-tags: [Control]
+tags: [Control, Clases y Objetos]
 ---
+
 # Libros 📚 (C3-2017-01 P2)
 
 Un objeto de la Clase Libro posee los métodos indicados en la siguiente Tabla:

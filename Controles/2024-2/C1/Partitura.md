@@ -1,5 +1,5 @@
 ---
-tags: [Pregunta Control, Recursion, Condicionales, Módulos, Programa Interactivo]
+tags: [Control, Recursión, Condicionales, Módulos, Programa Interactivo]
 ---
 
 # Pregunta 2

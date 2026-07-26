@@ -1,5 +1,5 @@
 ---
-tags: [Funciones, Módulos, Programa Interactivo]
+tags: [Control, Funciones, Módulos, Programa Interactivo]
 ---
 # **[C1 2017-2]** Números Romanos
 

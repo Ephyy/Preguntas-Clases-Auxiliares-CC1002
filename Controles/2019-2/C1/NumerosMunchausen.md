@@ -1,5 +1,5 @@
 ---
-tags: [Pregunta Control]
+tags: [Control, Recursión]
 ---
 
 # Números de Munchausen

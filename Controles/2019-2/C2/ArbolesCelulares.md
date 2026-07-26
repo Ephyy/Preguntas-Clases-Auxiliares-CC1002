@@ -1,3 +1,7 @@
+---
+tags: [Control, Árboles Binarios]
+---
+
 # Árboles Celulares (P2 C2 2019-02)
 
 Considerando que un árbol binario se define como:

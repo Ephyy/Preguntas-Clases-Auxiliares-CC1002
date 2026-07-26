@@ -1,3 +1,7 @@
+---
+tags: [Control, Árboles Binarios]
+---
+
 # Árboles Lógicos (P2 C2 2016-02)
 
 Una expresión lógica se puede representar por un árbol binario.
