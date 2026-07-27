@@ -1,5 +1,6 @@
 ---
 tags: [Recursión]
+dificultad: Dificil
 ---
 
 # Numeros de D’furrí

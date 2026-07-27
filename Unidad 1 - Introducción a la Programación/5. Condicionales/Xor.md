@@ -2,7 +2,7 @@
 tags: [Condicionales]
 ---
 
-# El O exclusivo 
+# El O exclusivo
 
 En lógica, así como existe la conjunción (`and`) y la disyunción (`or`), también existe el operador de disyunción exclusiva, que se comporta de acuerdo a la siguiente tabla de verdad:
 
