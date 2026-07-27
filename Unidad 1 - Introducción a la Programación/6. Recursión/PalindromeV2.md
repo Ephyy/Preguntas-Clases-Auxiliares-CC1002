@@ -1,5 +1,5 @@
 ---
-tags: [Recursion, Programa Interactivo, Función Interactiva]
+tags: [Recursión, Programa Interactivo, Función Interactiva]
 ---
 
 # Palindrome (Variante 2)

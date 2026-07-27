@@ -1,5 +1,5 @@
 ---
-tags: [Recursion, Programa Interactivo]
+tags: [Recursión, Programa Interactivo]
 ---
 
 # Promedio Recursivo

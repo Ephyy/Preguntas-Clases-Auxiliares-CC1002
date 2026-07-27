@@ -1,5 +1,5 @@
 ---
-tags: [Control, Listas Recursivas, Estructura]
+tags: [Control, Listas Recursivas, Estructuras]
 ---
 
 # Torniquetes 851 (P1 C2 2019-02)
