@@ -14,7 +14,7 @@ $$
 
 se representa por la figura de más abajo.
 
-Al respecto, se pide escribir la función `evaluar(A)`, que reciba un árbol binario (`AB`) que representa una expresión lógica válida, la evalúe y devuelva su resultado (`True` o `False`).
+Al respecto, se pide escribir la función ```evaluar(A)```, que reciba un árbol binario (`AB`) que representa una expresión lógica válida, la evalúe y devuelva su resultado (```True``` o ```False```).
 
 ```python
 # p, q y r se pueden reemplazar por True o False
@@ -47,12 +47,8 @@ ABlog = AB(
 
 **Bonus:**
 
-Escriba una función llamada `expresion(A)`, que reciba un árbol binario como el representado anteriormente y entregue un `string` con la expresión lógica que representa (sin paréntesis).
+Escriba una función llamada ```expresion(A)```, que reciba un árbol binario como el representado anteriormente y entregue un `string` con la expresión lógica que representa (sin paréntesis).
 
 Por ejemplo:
 
-- `expresion(ABlog)` entrega:
-
-  ```python
-  "p and not q or r"
-  ```
+- ```expresion(ABlog)``` entrega: ```"p and not q or r"```
