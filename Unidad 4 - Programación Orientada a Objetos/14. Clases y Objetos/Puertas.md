@@ -16,10 +16,10 @@ Vamos a construir una Clase, que nos permita modelar este tipo de concurso. La t
 
 | Método | Significado |
 |---|---|
-| `P = Puertas(10, 3)` | Crea un concurso de las puertas, con 10 puertas, y 3 de ellas quedan con una trampa. |
-| `P.abrirPuerta(2)` | Abre la puerta número 2. Dependiendo del contenido de la puerta, entrega el string: `"premio"`, `"gran premio"` o `"trampa"`. |
-| `P.puertasCerradas()` | Entrega una lista con los números de puertas (numeradas de 1 a 10) que no han sido abiertas aún. |
-| `P.termino()` | Entrega `True` si el concurso llegó a un estado final (se abrió la puerta del super premio o una trampa), o `False` si no. |
+| ```P = Puertas(10, 3)``` | Crea un concurso de las puertas, con 10 puertas, y 3 de ellas quedan con una trampa. |
+| ```P.abrirPuerta(2)``` | Abre la puerta número 2. Dependiendo del contenido de la puerta, entrega el string: ```"premio"```, ```"gran premio"``` o ```"trampa"```. |
+| ```P.puertasCerradas()``` | Entrega una lista con los números de puertas (numeradas de 1 a 10) que no han sido abiertas aún. |
+| ```P.termino()``` | Entrega ```True``` si el concurso llegó a un estado final (se abrió la puerta del super premio o una trampa), o ```False``` si no. |
 
 Al respecto:
 

@@ -2,7 +2,7 @@
 tags: [Diccionarios]
 ---
 
-# Disfraces
+# Disfraces 
 
 Un grupo de amiwis ha decidido anotar los disfraces que previamente han usado en fiestas, cumpleaños y eventos, en un diccionario, donde a cada persona, se le asocia una lista con los disfraces que tiene:
 

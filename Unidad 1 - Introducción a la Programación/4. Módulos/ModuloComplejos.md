@@ -2,7 +2,7 @@
 tags: [Funciones, Módulos, Programa Interactivo]
 ---
 
-# Números Complejos
+# Números Complejos (Módulo)
 
 Recordemos que la formula de euler para números complejos establece que:
 

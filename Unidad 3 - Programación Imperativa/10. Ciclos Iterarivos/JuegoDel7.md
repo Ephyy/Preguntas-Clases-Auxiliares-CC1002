@@ -31,7 +31,7 @@ Como a usted no le gusta perder, ha decidido crear un programa que le ayude a sa
 
   Su solución **debe usar el mecanismo de ciclos while**.
 
-+ (Propuesto 1) Resolver el mismo problema anterior, pero ahora como una función de nombre `secuencia7(N)`, que recibe un número entero mayor que 1, y entrega una lista que contiene la secuencia de `1` a `N`.
++ (Propuesto 1) Resolver el mismo problema anterior, pero ahora como una función de nombre ```secuencia7(N)```, que recibe un número entero mayor que 1, y entrega una lista que contiene la secuencia de `1` a `N`.
 
   Por ejemplo:
 

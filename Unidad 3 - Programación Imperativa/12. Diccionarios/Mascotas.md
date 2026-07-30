@@ -18,7 +18,7 @@ pets = {
 }
 ```
 
-Con esto, se pide crear una función llamada `mascotas(D)` que recibe un diccionario de mascotas como el del ejemplo, y retorna un nuevo diccionario, donde la llave serán los tipos de mascotas, y su valor asociado es la cantidad de veces que apareció dicha mascota como mascota de alguna persona.
+Con esto, se pide crear una función llamada ```mascotas(D)``` que recibe un diccionario de mascotas como el del ejemplo, y retorna un nuevo diccionario, donde la llave serán los tipos de mascotas, y su valor asociado es la cantidad de veces que apareció dicha mascota como mascota de alguna persona.
 
 Para el ejemplo, se espera que la función entregue un diccionario de la siguiente forma:
 

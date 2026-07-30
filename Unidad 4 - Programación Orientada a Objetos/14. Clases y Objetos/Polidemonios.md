@@ -14,7 +14,7 @@ en donde los $a_i$ son coeficientes reales, con $i = 0, 1, 2, \dots, n$. (Note q
 
 En base a eso, con el objetivo de ganar un poco de dominio sobre estas malvadas expresiones, se le pide implementar la clase `Polinomio`, cuyo constructor recibe como parámetro una lista de $n+1$ coeficientes.
 
-Por ejemplo, `P = Polinomio([1,2,3])`, donde `P` representa el polinomio $1 + 2x + 3x^2$.
+Por ejemplo, ```P = Polinomio([1,2,3])```, donde `P` representa el polinomio $1 + 2x + 3x^2$.
 
 1. Cree el constructor de la clase `Polinomio`, en donde su representación interna es una lista de Python que guarda los coeficientes del polinomio. El i-ésimo índice de la lista almacena el coeficiente $a_i$ del polinomio.
 
@@ -24,7 +24,7 @@ Por ejemplo, `P = Polinomio([1,2,3])`, donde `P` representa el polinomio $1 + 2x
    self.__coefs = [1,2,3]
    ```
 
-2. Implemente el método `mostrar(self)`, que muestra en pantalla el polinomio, siguiendo la siguiente notación: `"coef*x**potencia + ..."`.
+2. Implemente el método ```mostrar(self)```, que muestra en pantalla el polinomio, siguiendo la siguiente notación: `"coef*x**potencia + ..."`.
 
    Por ejemplo:
 
@@ -34,7 +34,7 @@ Por ejemplo, `P = Polinomio([1,2,3])`, donde `P` representa el polinomio $1 + 2x
    '1*x**0 + 2*x**1 + 3*x**2'
    ```
 
-3. Implemente el método `evaluar(self, x)` que retorna el resultado de evaluar el polinomio en el número $x$.
+3. Implemente el método ```evaluar(self, x)``` que retorna el resultado de evaluar el polinomio en el número $x$.
 
    Por ejemplo, si evaluamos $P(x)=1+2x+3x^2$ en $x=2$, obtenemos $1+2∗2^1+3∗2^2=1+4+12=17$.
 
@@ -44,7 +44,7 @@ Por ejemplo, `P = Polinomio([1,2,3])`, donde `P` representa el polinomio $1 + 2x
    17
    ```
 
-4. Implemente el método `__add__(self, P2)` que retorne el polinomio resultante de la suma entre `P1` y `P2`.
+4. Implemente el método ```__add__(self, P2)``` que retorne el polinomio resultante de la suma entre `P1` y `P2`.
 
    Por ejemplo:
 

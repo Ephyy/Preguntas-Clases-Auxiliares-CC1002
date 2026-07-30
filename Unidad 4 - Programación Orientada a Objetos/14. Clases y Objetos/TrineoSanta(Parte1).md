@@ -8,10 +8,10 @@ Se acerca Navidad! (Y nosotros aún aquí uwu) Y nuestro queride Santa, para tra
 
 | Método | Significado |
 |---|---|
-| `T = Trineo(N)` | Constructor de un objeto Trineo. Recibe la cantidad máxima de regalos que puede almacenar. |
-| `T.agregarRegalo(nombre, regalo)` | Dado un nombre y un regalo (ambos strings), se le asigna al niño(a) de nombre entregado tal regalo. Si no queda espacio en el trineo, entonces no agrega el regalo. |
-| `T.capacidadTotal()` | Entrega la capacidad total que tiene el trineo. |
-| `T.obtenerRegalos()` | Entrega un listado con los niños(as) y sus regalos asociados. |
+| ```T = Trineo(N)``` | Constructor de un objeto Trineo. Recibe la cantidad máxima de regalos que puede almacenar. |
+| ```T.agregarRegalo(nombre, regalo)``` | Dado un nombre y un regalo (ambos strings), se le asigna al niño(a) de nombre entregado tal regalo. Si no queda espacio en el trineo, entonces no agrega el regalo. |
+| ```T.capacidadTotal()``` | Entrega la capacidad total que tiene el trineo. |
+| ```T.obtenerRegalos()``` | Entrega un listado con los niños(as) y sus regalos asociados. |
 
 Con esto, Santa le pide ayuda con lo siguiente:
 

@@ -23,9 +23,9 @@ Para esta pregunta puede suponer:
 
 Al respecto, realice lo siguiente:
 
-- Cree la función ```esPitagorico(A)```, que recibe un árbol binario de números, y valida que cumpla con ser un árbol pitagórico.
++ Cree la función ```esPitagorico(A)```, que recibe un árbol binario de números, y valida que cumpla con ser un árbol pitagórico.
 
-- Cree la función ```contarTriangulos(A)```, que recibe un árbol binario que cumple con ser pitagórico, y entrega la cantidad de tríadas (valor-izq-der) de nodos que tiene el árbol.
++ Cree la función ```contarTriangulos(A)```, que recibe un árbol binario que cumple con ser pitagórico, y entrega la cantidad de tríadas (valor-izq-der) de nodos que tiene el árbol.
 
   Ejemplos:
 

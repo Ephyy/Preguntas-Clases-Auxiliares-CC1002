@@ -28,20 +28,20 @@ Es decir:
 
 Al respecto, se pide lo siguiente:
 
-- Cree la función ```promedioNotas(LN)```, que recibe una lista de números, y calcula el promedio de los números almacenados en la lista.
++ Cree la función ```promedioNotas(LN)```, que recibe una lista de números, y calcula el promedio de los números almacenados en la lista.
 
   Ejemplo:
 
   - ```promedioNotas(lista(5.2, lista(4.4, listaVacia)))``` entrega ```4.8```.
   - ```promedioNotas(lista(6.5, listaVacia))``` entrega ```6.5```.
 
-- Cree la función ```promedioPersona(LC)```, que recibe una lista de cursos, y calcula el promedio general, es decir el promedio de los promedios de cada curso.
++ Cree la función ```promedioPersona(LC)```, que recibe una lista de cursos, y calcula el promedio general, es decir el promedio de los promedios de cada curso.
 
   Ejemplo:
 
   - ```promedioPersona(Lcursos)``` entrega aproximadamente ```5.0```.
 
-- Para evitar reprobar un ramo que no tiene salvación, cree la función ```eliminaEspecial(LC)```, que recibe una lista de cursos, y entrega una lista de cursos, en la cual se eliminó el curso con el promedio más bajo.
++ Para evitar reprobar un ramo que no tiene salvación, cree la función ```eliminaEspecial(LC)```, que recibe una lista de cursos, y entrega una lista de cursos, en la cual se eliminó el curso con el promedio más bajo.
 
   Ejemplo:
 

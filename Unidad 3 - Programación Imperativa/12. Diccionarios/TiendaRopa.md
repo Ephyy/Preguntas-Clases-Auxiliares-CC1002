@@ -19,15 +19,15 @@ Inventario = {
 
 Con esto, Nicolás le pide ayuda a usted, una persona experta en diccionarios, para crear las siguientes funciones que le ayudarán mucho en su día a día en el trabajo:
 
-- Cree la función `contarPoleras(Inv, talla, color)` que, dado un diccionario de poleras, una talla y un color, entrega cuántas poleras existen con el color y talla indicadas.
+- Cree la función ```contarPoleras(Inv, talla, color)``` que, dado un diccionario de poleras, una talla y un color, entrega cuántas poleras existen con el color y talla indicadas.
 
   Ejemplos:
 
-  - `contarPoleras(Inventario, 'L', 'roja')` entrega `2`
+  - ```contarPoleras(Inventario, 'L', 'roja')``` entrega ```2```
 
-  - `contarPoleras(Inventario, 'S', 'morada')` entrega `3`
+  - ```contarPoleras(Inventario, 'S', 'morada')``` entrega ```3```
 
-- Cree la función `frecuencias(Inv)`, que dado un diccionario de poleras indexado por colores, entregue un diccionario de poleras indexado por tallas, asociado a la cantidad de poleras que tengan esa talla (sin importar el color).
++ Cree la función ```frecuencias(Inv)```, que dado un diccionario de poleras indexado por colores, entregue un diccionario de poleras indexado por tallas, asociado a la cantidad de poleras que tengan esa talla (sin importar el color).
 
   Ejemplo:
 
@@ -47,7 +47,7 @@ Con esto, Nicolás le pide ayuda a usted, una persona experta en diccionarios, p
   }
   ```
 
-- Cree la función `agregar(Inv, talla, color)`, que dado un diccionario de poleras, una talla y un color, agrega a tal diccionario una polera con el color y talla indicadas.
++ Cree la función ```agregar(Inv, talla, color)```, que dado un diccionario de poleras, una talla y un color, agrega a tal diccionario una polera con el color y talla indicadas.
 
   Ejemplo:
 

@@ -31,7 +31,7 @@ we are the champions~182rock~~~~~~~~~~queen
 
 Al respecto, se pide que realice lo siguiente:
 
-- Cree la función `cancionesPorGenero(nombre_playlist, genero)`, que recibe un `string` con el nombre de un archivo como el anterior, y un `string` con algún género musical. La función imprime en pantalla todos los nombres de canciones cuyo género coincida con el indicado.
++ Cree la función ```cancionesPorGenero(nombre_playlist, genero)```, que recibe un `string` con el nombre de un archivo como el anterior, y un `string` con algún género musical. La función imprime en pantalla todos los nombres de canciones cuyo género coincida con el indicado.
 
   Ejemplo:
 
@@ -44,15 +44,15 @@ Al respecto, se pide que realice lo siguiente:
   good luck, babe!
   ```
 
-- Cree la función `duracionMenorA(nombre_playlist, tiempo)`, que recibe un `string` con el nombre de un archivo estilo playlist, y un número entero positivo que representa segundos. La función entrega una lista con todos los nombres de las canciones que duren menos que `tiempo` segundos.
++ Cree la función ```duracionMenorA(nombre_playlist, tiempo)```, que recibe un `string` con el nombre de un archivo estilo playlist, y un número entero positivo que representa segundos. La función entrega una lista con todos los nombres de las canciones que duren menos que `tiempo` segundos.
 
   Ejemplo:
 
-  `duracionMenorA("playlist.txt", 180)` entrega: `["who", "taste", "espresso", "that's so true"]`
+  ```duracionMenorA("playlist.txt", 180)``` entrega: ```["who", "taste", "espresso", "that's so true"]```
 
-- Cree la función `artistasDistintos(nombre_playlist)`, que recibe un `string` con el nombre de un archivo estilo playlist. La función entrega la cantidad de artistas distintos en la playlist.
++ Cree la función ```artistasDistintos(nombre_playlist)```, que recibe un `string` con el nombre de un archivo estilo playlist. La función entrega la cantidad de artistas distintos en la playlist.
 
   Ejemplo:
 
   
-  - `artistasDistintos("playlist.txt")` entrega `9`
+  - ```artistasDistintos("playlist.txt")``` entrega ```9```

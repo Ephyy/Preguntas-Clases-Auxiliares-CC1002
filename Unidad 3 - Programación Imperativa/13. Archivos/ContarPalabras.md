@@ -14,17 +14,17 @@ Al zorro le encantaban las bromas pesadas y quiso gastarle una a su amiga la cig
 
 Al respecto, a Vicente le interesa saber cuál es la palabra que más se repite en los cuentos, por lo que le pide ayuda para programar las siguientes funciones:
 
-+ Cree la función `separar(nombre_archivo)`, que recibe el nombre de un archivo de texto. La función debe procesar las líneas del archivo, y entregar una lista con todas las palabras del documento (sin importar si están repetidas), que tengan largo mayor a 3. Ejemplo:
++ Cree la función ```separar(nombre_archivo)```, que recibe el nombre de un archivo de texto. La función debe procesar las líneas del archivo, y entregar una lista con todas las palabras del documento (sin importar si están repetidas), que tengan largo mayor a 3. Ejemplo:
 
-  - `separar("zorro_cigueña.txt")` entrega:
+  - ```separar("zorro_cigueña.txt")``` entrega:
 
     ```python
     ["zorro", "encantaban", "bromas", ...]
     ```
 
-+ Cree la función `masRepetida(Lpalabras)`, que recibe una lista de strings (como la que se obtiene con la función anterior). La función debe entregar la palabra de largo mayor a 2 que más se repite dentro de la lista. Puede asumir que solo hay una palabra que se repite más veces dentro de la lista. Ejemplo:
++ Cree la función ```masRepetida(Lpalabras)```, que recibe una lista de strings (como la que se obtiene con la función anterior). La función debe entregar la palabra de largo mayor a 2 que más se repite dentro de la lista. Puede asumir que solo hay una palabra que se repite más veces dentro de la lista. Ejemplo:
 
-  - `masRepetida(["zorro", "encantaban", "bromas", ...])` entrega:
+  - ```masRepetida(["zorro", "encantaban", "bromas", ...])``` entrega:
 
     ```python
     "zorro"

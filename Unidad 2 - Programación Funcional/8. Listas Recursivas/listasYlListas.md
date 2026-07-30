@@ -4,12 +4,14 @@ tags: [Listas Recursivas]
 
 # Listas y Listas
 Vamos a subir un nivel de dificultad, y vamos a trabajar con dos listas a la vez!
+
 ```python
 Lej1 = lista(3, lista('manzana', lista(2, listaVacia)))
 Lej2 = lista(7, lista(4, lista('piña', listaVacia)))
 Lej3 = lista('piña', lista(7, listaVacia))
 Lej4 = lista(2, lista(3, lista('manzana', listaVacia)))
 ```
+
 a) Cree la función ```subconjunto(L1, L2)```, que recibe dos listas de elementos, y entrega True si todos los elementos de L2 están presentes en L1 (no necesariamente en el mismo orden). Ejemplo:
 - ```subconjunto(Lej2, Lej3)``` entrega ```True```
 - ```subconjunto(Lej1, Lej2)``` entrega ```False```
