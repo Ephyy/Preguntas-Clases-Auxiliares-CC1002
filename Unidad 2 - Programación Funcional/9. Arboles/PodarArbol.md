@@ -12,7 +12,7 @@ Por ejemplo, en la imagen anterior, se puede ver un árbol de números (que llam
 
 Al respecto, se pide lo siguiente:
 
-- Cree la función `podarArbol(A)`, que recibe un árbol binario, y entrega ese árbol binario, pero con sus hojas eliminadas. Por ejemplo:
+- Cree la función ```podarArbol(A)```, que recibe un árbol binario, y entrega ese árbol binario, pero con sus hojas eliminadas. Por ejemplo:
 
   ```python
   podarArbol(Anumeros) entrega:
@@ -20,14 +20,14 @@ Al respecto, se pide lo siguiente:
   AB(8,
      AB(40,
         AB(11, arbolVacio, arbolVacio),
-        AB(1, arbolVacio, arbolVacio)),
+        AB(1, arbolVacio, arbolVacio)),``
      AB(14,
         AB(9, arbolVacio, arbolVacio),
         arbolVacio))
   ```
 
-- Cree la función `contarPodas(A)`, que recibe un árbol binario, y entrega la cantidad de podas requeridas para que el árbol sea eliminado completamente.
+- Cree la función ```contarPodas(A)```, que recibe un árbol binario, y entrega la cantidad de podas requeridas para que el árbol sea eliminado completamente.
 
   Por ejemplo:
 
-  - `contarPodas(Anumeros)` entrega `4`.
+  - ```contarPodas(Anumeros)``` entrega ```4```.

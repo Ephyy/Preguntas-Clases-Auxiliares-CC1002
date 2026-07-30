@@ -12,7 +12,7 @@ Si es sábado sin vacaciones, debe decirle *“Se viene el control, wiii! :D”*
 - Hay días donde la pera es fuerte, entonces, independiente del día, después del mensaje, el loro debe decir: *“La pera es fuerte en tí, humano...”*.
 
 
-Para ello cree una función de encabezado `loroDespertador(dia, vacaciones, pera)`, en
+Para ello cree una función de encabezado ```loroDespertador(dia, vacaciones, pera)```, en
 donde dia corresponde a un número entero entre 1 y 7 inclusive, representando cada uno de
 los días de la semana, comenzando desde el Lunes. Vacaciones y pera son boolean, que indican
 su estado correspondiente. (Por ejemplo si vacaciones es False, entonces es un periodo de

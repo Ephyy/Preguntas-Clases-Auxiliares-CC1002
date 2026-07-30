@@ -17,7 +17,7 @@ En particular, los índices de **felicidad** y **hambre** no pueden ser negativo
 
 Con esto, cree las siguientes funciones para interactuar con estructuras `Tama`:
 
-1. La función `esTamagotchi(T)`, que valida si el parámetro `T` corresponde a una estructura `Tama` válida.
+1. La función ```esTamagotchi(T)```, que valida si el parámetro `T` corresponde a una estructura `Tama` válida.
 
     **Ejemplos:**
 
@@ -33,7 +33,7 @@ Con esto, cree las siguientes funciones para interactuar con estructuras `Tama`:
 
 2. Si el Tamagotchi tiene mucha pena o mucha hambre, abandona al humano irresponsable y se va a buscar otro. Lo anterior ocurre cuando el índice de felicidad llega a 0 y/o el de hambre llega a 100.
 
-    Cree la función `tamagotchiSeVa(T)`, que retorna `True` si el Tamagotchi cumple alguno de estos criterios y `False` en caso contrario.
+    Cree la función ```tamagotchiSeVa(T)```, que retorna ```True``` si el Tamagotchi cumple alguno de estos criterios y ```False``` en caso contrario.
 
     **Ejemplo:**
 
@@ -42,7 +42,7 @@ Con esto, cree las siguientes funciones para interactuar con estructuras `Tama`:
     # True
     ```
 
-3. Función `alimentar(T)`, que dada una estructura Tama `T`, entrega un nuevo `Tama`, donde el índice de felicidad aumenta en 10 unidades, y el índice de hambre disminuye en 30 unidades. Ejemplo:
+3. Función ```alimentar(T)```, que dada una estructura Tama `T`, entrega un nuevo `Tama`, donde el índice de felicidad aumenta en 10 unidades, y el índice de hambre disminuye en 30 unidades. Ejemplo:
 
     Recuerde que los índices no pueden ser negativos.
 
@@ -53,7 +53,7 @@ Con esto, cree las siguientes funciones para interactuar con estructuras `Tama`:
     # Tama("nekoo", 60, 0, "gato")
     ```
 
-4. La función `jugar(T)`, que recibe una estructura `Tama` y retorna un nuevo `Tama` de acuerdo con las siguientes reglas:
+4. La función ```jugar(T)```, que recibe una estructura `Tama` y retorna un nuevo `Tama` de acuerdo con las siguientes reglas:
 
      - Si el ind. de hambre está bajo 50, entonces el índice de felicidad aumenta en 30 unidades, y el
    índice de hambre aumenta en 30 unidades.

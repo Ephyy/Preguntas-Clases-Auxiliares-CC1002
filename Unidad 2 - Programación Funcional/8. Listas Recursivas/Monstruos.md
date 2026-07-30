@@ -28,11 +28,11 @@ listaM2 = lista(azul1, lista(rojo1, lista(azul2, lista(rojo2, listaVacia))))
 
 Al respecto, se pide resolver las siguientes situaciones:
 
-1. Se ha activado un código 3312. Debido al impacto de esta situación, los Monstruos experimentan un curioso cambio: pierden un ojo, pero ganan 3 brazos. Cree la función `codigo3312(LM)`, que recibe una lista de Monstruos, y entrega una lista de Monstruos, donde cada Monstruo fue modificado de acuerdo a lo mencionado anteriormente.
+1. Se ha activado un código 3312. Debido al impacto de esta situación, los Monstruos experimentan un curioso cambio: pierden un ojo, pero ganan 3 brazos. Cree la función ```codigo3312(LM)```, que recibe una lista de Monstruos, y entrega una lista de Monstruos, donde cada Monstruo fue modificado de acuerdo a lo mencionado anteriormente.
 
     Ejemplo:
 
-    - `codigo3312(listaM1)` entrega:
+    - ```codigo3312(listaM1)``` entrega:
 
       ```python
       lista(
@@ -49,11 +49,11 @@ Al respecto, se pide resolver las siguientes situaciones:
 
     Puede suponer que los Monstruos de la lista tendrán al menos un ojo y pueden quedar sin ojos.
 
-2. La Gerencia necesita identificar a los Monstruos que generen más susto, y así tengan más probabilidades de generar energía. Cree la función `peligrosos(LM, i)` que recibe una lista de Monstruos, y entrega una lista con los Monstruos que tengan un índice de susto mayor al valor `i` dado.
+2. La Gerencia necesita identificar a los Monstruos que generen más susto, y así tengan más probabilidades de generar energía. Cree la función ```peligrosos(LM, i)``` que recibe una lista de Monstruos, y entrega una lista con los Monstruos que tengan un índice de susto mayor al valor `i` dado.
 
     Ejemplo:
 
-     - `peligrosos(listaM1, 30)` entrega:
+     - ```peligrosos(listaM1, 30)``` entrega:
 
        ```python
        lista(naranja1, lista(morado1, listaVacia))
@@ -62,14 +62,13 @@ Al respecto, se pide resolver las siguientes situaciones:
 3. La Gerencia ahora necesita calcular cuánta energía podría ser generada por un grupo de Monstruos (asumiendo que tienen éxito en su misión). La fórmula para calcular la energía es:
 
     $$
-    \sum_{i=1}^{n} \text{Mind}_i \cdot \sqrt{\text{Mojos}_i + \text{Mbra}_i}
-    \qquad [\text{GPPM}]
+    \sum_{i=1}^{n} \text{Mind}_i \cdot \sqrt{\text{Mojos}_i + \text{Mbra}_i} \qquad [\text{GPPM}]
     $$
 
     Donde $\text{Mind}_i$ corresponde al índice de susto del Monstruo, $\text{Mojos}_i$ es la cantidad de ojos del Monstruo, $\text{Mbra}_i$ es la cantidad de brazos del Monstruo, y la unidad de medida de la energía es **Gritos Por Parte de Monstruo (GPPM)**.
 
-    Cree la función `trabajar(LM)`, que recibe una lista de Monstruos, y entrega la energía total que pueden generar los Monstruos en la lista.
+    Cree la función ```trabajar(LM)```, que recibe una lista de Monstruos, y entrega la energía total que pueden generar los Monstruos en la lista.
 
     Ejemplo:
 
-    - `trabajar(listaM1)` entrega aproximadamente `209.7493566`.
+    - ```trabajar(listaM1)``` entrega aproximadamente ```209.7493566```.

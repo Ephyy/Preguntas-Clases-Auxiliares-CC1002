@@ -13,7 +13,7 @@ En lógica, así como existe la conjunción (`and`) y la disyunción (`or`), tam
 | True  | False | True  |
 | True  | True  | False |
 
-Como en python no existe esta operación, se le pide programar la función `xor(b1, b2)`, la cual recibe dos expresiones booleanas, y entrega `True` si solo una de las expresiones recibidas es `True` (y la otra es `False`), y `False` en cualquier otro caso (de acuerdo a la tabla de verdad). Ejemplos:
+Como en python no existe esta operación, se le pide programar la función ```xor(b1, b2)```, la cual recibe dos expresiones booleanas, y entrega ```True``` si solo una de las expresiones recibidas es ```True``` (y la otra es ```False```), y ```False``` en cualquier otro caso (de acuerdo a la tabla de verdad). Ejemplos:
 
-- `xor(True, False)` entrega `True`
-- `xor(True, True)` entrega `False`
+- ```xor(True, False)``` entrega ```True```
+- ```xor(True, True)``` entrega ```False```

@@ -12,7 +12,7 @@ Revisando en internet, descubren que el sistema de claves aceptadas por el refri
 
 Las claves aceptadas son `77`, `477` y `474` (ya que son recorridos del árbol que terminan en una hoja). Además, note que irse por la rama derecha aporta un `4` a la clave, mientras que irse por la rama izquierda aporta un `7`.
 
-Como usted se cree *hackerman/hackerwoman*, debido a que está dando un curso de programación, creará la función `verificar(AC, Lclave)` que recibe un árbol binario de contraseñas y una lista, donde cada elemento es una cifra de la clave a probar. Entrega `True` si la clave ingresada es aceptada por el árbol (es decir, llega a una hoja de este), o `False` en caso contrario.
+Como usted se cree *hackerman/hackerwoman*, debido a que está dando un curso de programación, creará la función ```verificar(AC, Lclave)``` que recibe un árbol binario de contraseñas y una lista, donde cada elemento es una cifra de la clave a probar. Entrega ```True``` si la clave ingresada es aceptada por el árbol (es decir, llega a una hoja de este), o ```False``` en caso contrario.
 
 Ejemplos:
 

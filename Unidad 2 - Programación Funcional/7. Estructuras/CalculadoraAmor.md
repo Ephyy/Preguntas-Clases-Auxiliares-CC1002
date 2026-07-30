@@ -11,9 +11,9 @@ En este ejercicio, queremos ver qué tan compatibles son dos personas usando un 
    - `fecha`: un entero en formato `AAAAMMDD` que representa la fecha de nacimiento.
    - `color`: una cadena de caracteres que representa el color favorito de la persona.
 
-2. Defina una función validadora `esPersona(P)` que valida si el parámetro `P` corresponde a una estructura `Persona` válida o no.
+2. Defina una función validadora ```esPersona(P)``` que valida si el parámetro `P` corresponde a una estructura `Persona` válida o no.
 
-3. Defina una función llamada `calcular_afinidad(persona1, persona2)` que:
+3. Defina una función llamada ```calcular_afinidad(persona1, persona2)``` que:
    - Reciba dos `Persona` como parámetros.
    - Calcule el índice de afinidad entre ellas usando las siguientes reglas:
      - Si el `color` es el mismo, sume 20 puntos.

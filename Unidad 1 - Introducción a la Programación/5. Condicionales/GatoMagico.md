@@ -9,7 +9,7 @@ que haga una simulación de tal increíble felino.
 
 Para esto, le piden que:
 
-**a)** Programe la función `gatomagico(pregunta)` que simule a tal animal de la siguiente manera:
+**a)** Programe la función ```gatomagico(pregunta)``` que simule a tal animal de la siguiente manera:
 
 - El 40% de las veces el gato mágico responde «Si purrr»
 - El 35% de las veces responde «Ghhh No»

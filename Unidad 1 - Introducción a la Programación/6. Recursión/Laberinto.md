@@ -24,19 +24,19 @@ Y el código para llegar a la salida está representado por una cadena de númer
 
 Primero, para orientarse, necesita saber dónde se encuentra espacialmente la salida, para lo cual cree las siguientes funciones (asuma que se encuentra en el punto `(0, 0)`).
 
-**a)** Cree la función `movHoriz(C)`, que recibe un número entero que representa una secuencia de movimientos, y entrega cuál es el desplazamiento neto en el eje horizontal.
+**a)** Cree la función ```movHoriz(C)```, que recibe un número entero que representa una secuencia de movimientos, y entrega cuál es el desplazamiento neto en el eje horizontal.
 
 Ejemplo:
 
-- `movHoriz(32413512)` entrega `-1`.
+- ```movHoriz(32413512)``` entrega ```-1```.
 
 **b)** Cree la función `movVert(C)`, que recibe un número entero que representa una secuencia de movimientos, y entrega cuál es el desplazamiento neto en el eje vertical.
 
 Ejemplo:
 
-- `movVert(32413512)` entrega `-5`.
+- ```movVert(32413512)``` entrega ```-5```.
 
-**c)** Luego, cree la función `ruta(C)`, que va mostrando en pantalla los pasos que hay que dar en cada dirección, de acuerdo a la secuencia de movimientos recibida (leída de izquierda a derecha).
+**c)** Luego, cree la función ```ruta(C)```, que va mostrando en pantalla los pasos que hay que dar en cada dirección, de acuerdo a la secuencia de movimientos recibida (leída de izquierda a derecha).
 
 Por ejemplo:
 

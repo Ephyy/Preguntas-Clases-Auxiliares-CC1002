@@ -10,7 +10,7 @@ $$ IMC = \frac{peso}{altura^2}\left[\frac{kg}{m^2}\right] $$
 
 Por lo que luego de esta clase, Clara se propuso la misión de hacer un programa computacional que motive a las personas a tener consciencia de su estado de salud, para lo cual le ayudaremos con lo siguiente:
 
-**a)** Cree la función `imc(peso, altura)`, que recibe dos números positivos que son el peso (en kg) y
+**a)** Cree la función ```imc(peso, altura)```, que recibe dos números positivos que son el peso (en kg) y
 altura (en m) de una persona, y retorna un texto dependiendo del valor del 𝐼𝑀𝐶:
 - Menos de 18.5 → `"Peso bajo"`
 - Entre 18.5 y 24.9 → `"Peso normal"`
@@ -20,8 +20,8 @@ altura (en m) de una persona, y retorna un texto dependiendo del valor del 𝐼�
 - 40.0 o más → `"Obesidad Severa"`
 
 Ejemplos:
-- `imc(65, 1.70)` entrega `"Peso normal"`
-- `imc(85, 1.75)` entrega `"Sobrepeso"`
+- ```imc(65, 1.70)``` entrega ```"Peso normal"```
+- ```imc(85, 1.75)``` entrega ```"Sobrepeso"```
 
 
 **b)** Cree un programa interactivo, donde con ayuda de la función anterior, construya un programa de acuerdo al siguiente diálogo de ejemplo:

@@ -14,14 +14,14 @@ Por ejemplo:
 
 Para ello se le pide crear las siguientes funciones para poder determinar si un numero es D’furrí o no.
 
-a) Cree la función recursiva `sumarDigitos(n)`, que suma los dígitos de un numero. Por ejemplo:
-- `sumarDigitos(456)` entrega `15`.
+a) Cree la función recursiva ```sumarDigitos(n)```, que suma los dígitos de un numero. Por ejemplo:
+- ```sumarDigitos(456)``` entrega ```15```.
 
-b) Cree la función recursiva `reducir(n)`, que suma consecutivamente los dígitos de un numero, hasta obtener un número entre 0 y 9. Por ejemplo:
-- `reducir(456)` entrega `6`.
+b) Cree la función recursiva ```reducir(n)```, que suma consecutivamente los dígitos de un numero, hasta obtener un número entre 0 y 9. Por ejemplo:
+- ```reducir(456)``` entrega ```6```.
 
-c) Cree la función recursiva `buscarDigito(n, d)`, que verifica si el dígito d está en las cifras del número n. Por ejemplo:
-- `buscarDigito(456, 6)` entrega `True`.
+c) Cree la función recursiva ```buscarDigito(n, d)```, que verifica si el dígito d está en las cifras del número n. Por ejemplo:
+- ```buscarDigito(456, 6)``` entrega ```True```.
 
-d) Cree la función `esDfurri(n)`, que verifica si un número n cumple con ser D’furrí. Por ejemplo:
-- `esDfurri(456)` entrega `True`
+d) Cree la función ```esDfurri(n)```, que verifica si un número n cumple con ser D’furrí. Por ejemplo:
+- ```esDfurri(456)``` entrega ```True```

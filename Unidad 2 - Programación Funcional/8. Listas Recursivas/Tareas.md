@@ -28,7 +28,7 @@ Con lo anterior:
 
 Usando estas estructuras, programe las siguientes funciones:
 
-- Cree la función `mostrarTareas(L)`, que recibe una lista de `Tarea`, y muestra en pantalla todas las tareas, línea por línea, de acuerdo al formato del siguiente ejemplo:
++ Cree la función ```mostrarTareas(L)```, que recibe una lista de `Tarea`, y muestra en pantalla todas las tareas, línea por línea, de acuerdo al formato del siguiente ejemplo:
 
   ```python
   >>> mostrarTareas(Ltareas)
@@ -39,17 +39,17 @@ Usando estas estructuras, programe las siguientes funciones:
   Hacer un meme - completada - 20241001
   ```
 
-- Cree la función `pendientes(L)`, que recibe una lista de `Tarea` y entrega una lista de las `Tarea` que se encuentren pendientes (no completadas).
++ Cree la función ```pendientes(L)```, que recibe una lista de `Tarea` y entrega una lista de las `Tarea` que se encuentren pendientes (no completadas).
 
   Ejemplo:
 
-  - `pendientes(Ltareas)` entrega:
+  - ```pendientes(Ltareas)``` entrega:
 
     ```python
     lista(T1, lista(T2, lista(T4, listaVacia)))
     ```
 
-- Cree la función `urgente(L, fechahoy)`, que recibe una lista de `Tarea` no completadas, y la fecha de hoy (en formato `AAAAMMDD`), y entrega la tarea que es más urgente de completar (la que hay que completar pronto, dado que se acerca su fecha límite para completarla). En caso de que exista más de una `Tarea` urgente en la lista, entonces solo entregue la primera que encontró.
++ Cree la función ```urgente(L, fechahoy)```, que recibe una lista de `Tarea` no completadas, y la fecha de hoy (en formato `AAAAMMDD`), y entrega la tarea que es más urgente de completar (la que hay que completar pronto, dado que se acerca su fecha límite para completarla). En caso de que exista más de una `Tarea` urgente en la lista, entonces solo entregue la primera que encontró.
 
   Ejemplo:
 

@@ -22,7 +22,7 @@ Considere que esta empresa calcula los sueldos de sus trabajadores siguiendo las
 
 + El trabajador obtiene un descuento de 15.000 por hora de atraso durante el mes.
 
-Cree una función llamada `cálculoSueldoLiquido(sueldo_bruto, horas_extras, teletrabajo, cantidad_de_ventas, atrasos)`.
+Cree una función llamada ```cálculoSueldoLiquido(sueldo_bruto, horas_extras, teletrabajo, cantidad_de_ventas, atrasos)```.
 
 Esta función recibe:
 
