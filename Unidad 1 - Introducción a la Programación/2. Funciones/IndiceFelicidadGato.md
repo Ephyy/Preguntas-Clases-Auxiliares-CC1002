@@ -13,7 +13,7 @@ $$ I = (\frac{3 \cdot G}{e^{H}}) \cdot (\frac{1 + ln(C)}{2}) $$
 
 (Obviamente esta formula incluye un factor aleatorio, pues los gatos son impredecibles.)
 
-Cree la función `ifg_churu(gramos, insipidez)`, que recibe los gramos de churus consumidos y sabor del churu, y calcula el índice antes descrito. Por simplicidad, redondee el resultado obtenido a 2 decimales.
+Cree la función ```ifg_churu(gramos, insipidez)```, que recibe los gramos de churus consumidos y sabor del churu, y calcula el índice antes descrito. Por simplicidad, redondee el resultado obtenido a 2 decimales.
 
 ```python
 >> ifg_churu(200,0)
