@@ -10,12 +10,12 @@ Luigi, el dueño del local, tiene la siguiente formula para calcular la cantidad
 
 $$ Salsa = \pi \cdot ln(r + 1)^{2} \cdot 10 $$
 
-**a)** Al respecto, cree la función llamada `salsa(r)`, que calcula la cantidad de salsa a utilizar, en función del radio $r$ de la pizza. Redondee el resultado final a 2 decimales.
+1. Al respecto, cree la función llamada ```salsa(r)```, que calcula la cantidad de salsa a utilizar, en función del radio $r$ de la pizza. Redondee el resultado final a 2 decimales.
 
-**b)** Haga un programa interactivo, estableciendo el siguiente dialogo:
+2. Haga un programa interactivo, estableciendo el siguiente dialogo:
 
-```python
-Ingrese el radio (cm) de la pizza: ___
-Necesitas [cantidad salsa] de salsa para la pizza.
-```
+    ```python
+    Ingrese el radio (cm) de la pizza: ___
+    Necesitas [cantidad salsa] de salsa para la pizza.
+    ```
 

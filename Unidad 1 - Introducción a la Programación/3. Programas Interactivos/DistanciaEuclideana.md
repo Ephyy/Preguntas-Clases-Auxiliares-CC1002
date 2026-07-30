@@ -6,9 +6,9 @@ tags: [Funciones, Programa Interactivo]
 
 1. Siguiendo la receta de diseño, implemente la función llamada ```distancia(x1, y1, x2, y2)```, la cual recibe dos puntos en el plano euclideano $(𝑥_{1}, 𝑦_{1})$ y $(𝑥_{2}, 𝑦_{2})$ y retorna la distancia entre ellos ocupando la fórmula.
 
- $$ \sqrt{(x_{2} - x_{1})^{2} + (y_{2}-y_{1})^{2} } $$
+    $$ \sqrt{(x_{2} - x_{1})^{2} + (y_{2}-y_{1})^{2} } $$
 
-   - La función debe retornar el resultado con dos decimales de aproximación. (Usando la función ```round(n, 2)``` donde $n$ es el decimal a aproximar)
+    La función debe retornar el resultado con dos decimales de aproximación. (Usando la función ```round(n, 2)``` donde $n$ es el decimal a aproximar)
   
 2. Implemente un programa interactivo que usando la función anterior, represente el siguiente dialogo:
 

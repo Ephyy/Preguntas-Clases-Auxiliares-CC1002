@@ -2,13 +2,13 @@
 tags: [Programa Interactivo, Función Interactiva]
 ---
 
-# El Loro de Loreto
+# El Loro de Loreto (Legacy)
 
 Loreto extraña mucho a su lorito mascota durante las clases del curso CC1002, lo cual la pone triste y causa que se distraiga mucho. Para disminuir sus distracciones, y aumentar su felicidad, la ayudará a crear una función interactiva en Python, que simulará el comportamiento de un loro.
 
-Para esto, cree una función llamada ``lorito()``, que no recibe parámetros, y pregunta interactivamente a una persona que ingrese una palabra o frase ``s``, y un número entero ``n``.
+Para esto, cree una función llamada ```lorito()```, que no recibe parámetros, y pregunta interactivamente a una persona que ingrese una palabra o frase `s`, y un número entero `n`.
 
-El programa responde mostrando en pantalla el mensaje ``s`` repetido ``n`` veces, generando el siguiente **diálogo interactivo**:
+El programa responde mostrando en pantalla el mensaje `s` repetido `n` veces, generando el siguiente **diálogo interactivo**:
 
 ```python
 >>> lorito()
