@@ -8,9 +8,9 @@ La Clase `Dado` posee los métodos indicados en la siguiente Tabla:
 
 | Método | Significado | Ejemplo |
 |---|---|---|
-| `D = Dado(L)` | Crea un dado de `L` lados, con un valor inicial `0` (para indicar que aún no ha sido lanzado). | `D = Dado(6)` |
-| `D.lanzar()` | Lanza el dado, de manera que tome un valor aleatorio entre `1` y `L`. | `D.lanzar()` no entrega nada, pero modifica su valor, por ejemplo, a `3`. |
-| `D.valor()` | Entrega el valor del Dado. | `D.valor()` entrega `3`. |
+| ```D = Dado(L)``` | Crea un dado de `L` lados, con un valor inicial `0` (para indicar que aún no ha sido lanzado). | ```D = Dado(6)``` |
+| ```D.lanzar()``` | Lanza el dado, de manera que tome un valor aleatorio entre `1` y `L`. | ```D.lanzar()``` no entrega nada, pero modifica su valor, por ejemplo, a `3`. |
+| ```D.valor()``` | Entrega el valor del Dado. | ```D.valor()``` entrega `3`. |
 
 Al respecto:
 

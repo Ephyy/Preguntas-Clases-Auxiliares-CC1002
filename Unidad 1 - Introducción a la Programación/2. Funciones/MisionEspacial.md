@@ -2,7 +2,7 @@
 tags: [Funciones]
 ---
 
-# Misión Espacial 
+# Misión Espacial 🚀
 
 Eres el capitán de la nave Endurance, encargada de un viaje interestelar hacia un planeta recién
 descubierto. Antes de despegar, necesitas calcular 2 datos clave para planificar la misión:

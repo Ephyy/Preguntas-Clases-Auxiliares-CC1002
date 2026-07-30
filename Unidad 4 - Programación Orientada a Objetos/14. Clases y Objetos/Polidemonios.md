@@ -1,3 +1,7 @@
+---
+tags: [Clases y Objetos]
+---
+
 # Polidemonios 😈😈
 
 Un polinomio, también conocido como *Polidemonios*, es una expresión algebraica formada por la suma de varios monomios o términos, que probablemente ya le han atormentado en varios cursos matemáticos. En particular, un polinomio $P(x)$ de grado $n$ puede ser escrito de la forma

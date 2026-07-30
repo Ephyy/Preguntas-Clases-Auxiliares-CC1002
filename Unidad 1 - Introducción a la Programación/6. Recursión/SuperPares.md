@@ -1,6 +1,6 @@
 ---
 tags: [Recursión]
-dificultad: "Dificil"
+dificultad: "Difícil"
 ---
 
 # Superpares
