@@ -1,8 +1,9 @@
 ---
 tags: [Programa Interactivo]
+titulo: El Loro de Loreto 🦜
 ---
 
-# El Loro de Loreto
+# El Loro de Loreto 🦜
 
 Loreto extraña mucho a su lorito mascota durante las clases del curso CC1002, lo cual la pone triste y causa que se distraiga mucho. Para disminuir sus distracciones, y aumentar su felicidad, la ayudará a crear un programa interactivo en Python, que simulará el comportamiento de un loro como el siguiente ejemplo:
 

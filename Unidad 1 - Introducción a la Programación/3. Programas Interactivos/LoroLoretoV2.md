@@ -1,5 +1,6 @@
 ---
 tags: [Programa Interactivo, Función Interactiva]
+titulo: El Loro de Loreto (Legacy)
 ---
 
 # El Loro de Loreto (Legacy)
