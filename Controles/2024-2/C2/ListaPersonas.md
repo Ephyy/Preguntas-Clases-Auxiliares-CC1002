@@ -1,5 +1,6 @@
 ---
-tag: [Control, Listas Recursivas]
+tags: [Control, Listas Recursivas]
+dificultad: Media
 ---
 
 # Lista de Personas [C2 2024-2]

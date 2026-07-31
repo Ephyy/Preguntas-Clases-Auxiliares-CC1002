@@ -1,6 +1,6 @@
 ---
 tags: [Control, Diccionarios, Listas Indexadas]
-dificultad: Muy díficil
+dificultad: Muy difícil
 ---
 
 # Paraderos de Buses 🚌🚏
