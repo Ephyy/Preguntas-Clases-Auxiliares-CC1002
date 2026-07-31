@@ -1,5 +1,6 @@
 ---
 tags: [Archivos, Listas Indexadas]
+titulo: Canciones de Spotify (Parte 2) 🟢🎧
 ---
 
 # Canciones de Spotify 2.0 🟢🎧
@@ -49,7 +50,7 @@ Al respecto, se pide que realice lo siguiente:
   ```
 
 
-+ Cree una función llamada ```cancionesOrdenadas(nombre_archivo)```, que recibe el nombre de un archivo que contiene una playlist como la generada en la parte (A) (datos de canciones separadas por ```;```), y entrega una lista de listas, en donde se entrega la información de cada canción, pero ordenada de mayor a menor duración. Por ejemplo:
++ Cree una función llamada ```cancionesOrdenadas(nombre_archivo)```, que recibe el nombre de un archivo que contiene una playlist como la generada en la parte (A) (datos de canciones separadas por `;`), y entrega una lista de listas, en donde se entrega la información de cada canción, pero ordenada de mayor a menor duración. Por ejemplo:
 
   - ```cancionesOrdenadas("playlist2.txt")``` entrega:
 
