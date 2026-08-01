@@ -3,12 +3,8 @@ tags: [Funciones]
 ---
 # Moneytrón
 
-Un banco de presencia internacional ha creado un robot de nombre moneytrón, cuya misión
-es convertir monedas entre Pesos chilenos (CLP), Dolares (USD) y Libras (GBP). Se suponía
-que debía ser un conversor universal, sin embargo, debido a una explosión en sus circuitos, las
-funciones de convertir de CLP a USD, de USD a GBP y de CLP a GBP dejaron de funcionar.
-Por lo que, le piden ayuda a Ud. y sus recientes conocimientos en Python, para programar directamente esas funciones en la memoria del robot. Para esto, realice las siguientes
-actividades:
+Un banco de presencia internacional ha creado un robot de nombre Moneytrón, cuya misión es convertir monedas entre Pesos chilenos (CLP), Dolares (USD) y Libras (GBP). Se suponía que debía ser un conversor universal, sin embargo, debido a una explosión en sus circuitos, las funciones de convertir de CLP a USD, de USD a GBP y de CLP a GBP dejaron de funcionar.
+Por lo que, le piden ayuda a Ud. y sus recientes conocimientos en Python, para programar directamente esas funciones en la memoria del robot. Para esto, realice las siguientes actividades:
 
 **a)** Cree la función de encabezado `clpADolares` que recibe un monto en CLP, y retorna
 como resultado el monto equivalente en USD.

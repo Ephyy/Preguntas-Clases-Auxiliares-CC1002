@@ -1,7 +1,8 @@
 ---
 tags: [Funciones]
 ---
-# Población de Bacterias
+
+# Población de Bacterias 🦠
 
 La fórmula de crecimiento de una población de bacterias está dada por la fórmula:
 

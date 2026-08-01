@@ -1,5 +1,6 @@
 ---
 tags: [Recursión, Programa Interactivo, Función Interactiva]
+titulo: Palindrome (Variante 2)
 ---
 
 # Palindrome (Variante 2)

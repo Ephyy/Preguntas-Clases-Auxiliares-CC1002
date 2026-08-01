@@ -2,7 +2,8 @@
 tags: [Programa Interactivo]
 ---
 
-# Sunset
+# Sunset 🍹
+
 Hay que implementar un programa interactivo que simule la compra de entradas para el evento _'Sunset'_ y la opción de agregar bebidas. El programa deberá interactuar con el usuario para recolectar la información necesaria y luego calcular el costo total de la compra de la siguiente forma:
 
 ```python

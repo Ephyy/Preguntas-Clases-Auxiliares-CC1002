@@ -2,7 +2,7 @@
 tags: [Control, Árboles Binarios]
 ---
 
-# Campeonato Deportivo [C2 2024-2]
+# Campeonato Deportivo ⚽🏆 [C2 2024-2]
 
 Los resultados de un campeonato deportivo por eliminación se representan en un árbol binario (AB) que contiene Strings. Por ejemplo, el árbol binario `ABTorneo1` de la figura representa un campeonato donde el ganador fue **H** (note que **H** jugó contra **G**, **E** y **B**):
 

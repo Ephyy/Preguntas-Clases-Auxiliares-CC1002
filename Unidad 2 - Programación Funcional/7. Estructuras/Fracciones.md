@@ -1,5 +1,6 @@
 ---
 tags: [Estructuras]
+dificultad: Media
 ---
 
 # Fracciones ➗

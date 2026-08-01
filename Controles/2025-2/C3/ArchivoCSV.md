@@ -2,7 +2,7 @@
 tags: [Control, Archivos, Diccionarios, Listas Indexadas]
 ---
 
-# Archivos CSV 📝
+# Archivos CSV 📝[C3 2025-2]
 
 Una tabla de datos se representa por un diccionario `(dict)`. Cada llave corresponde al nombre de una columna de la tabla, y cada valor es una lista con los datos de la columna respectiva. A continuación, se muestra de forma visual un ejemplo de una tabla con datos de personas, y el diccionario `df` que se usa para representarla. 
 
@@ -23,7 +23,7 @@ Para las siguientes preguntas puede asumir que el diccionario de la variable `df
 
 + **(3.0p)** Los archivos de texto que siguen el formato CSV **(comma-separated values)** buscan representar en su contenido conjuntos de datos organizados como una tabla. Cada línea de texto representa una fila de la tabla, y los valores de cada columna se separan por una coma (`,`). La primera línea del archivo representa la fila con los títulos de las columnas (que son distintos entre sí). Por ejemplo, el siguiente archivo, de nombre `datos.csv`, sigue el formato CSV:
 
-  ```
+  ```text
   nombre,edad,peso,altura
   Pedro,34,78.4,1.76
   Andrea,25,54.3,1.63

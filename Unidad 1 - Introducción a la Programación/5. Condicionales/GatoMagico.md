@@ -2,7 +2,8 @@
 tags: [Condicionales, Programa Interactivo]
 ---
 
-# Gato Mágico
+# Gato Mágico 🔮
+
 En el antiguo Egipto había un gato mágico que todos adoraban. Este tenia la particularidad de que podía
 responder «Si» o «No» a cualquier pregunta. En la actualidad un grupo de fanáticos de los gatos le pide
 que haga una simulación de tal increíble felino.

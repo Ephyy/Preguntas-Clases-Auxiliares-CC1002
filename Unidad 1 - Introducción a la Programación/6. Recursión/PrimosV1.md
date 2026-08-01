@@ -1,5 +1,6 @@
 ---
 tags: [Recursión]
+titulo: Números Primos (Variante 1)
 ---
 
 # Números Primos (Variante 1)

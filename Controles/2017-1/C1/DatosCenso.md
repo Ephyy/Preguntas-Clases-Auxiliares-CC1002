@@ -2,7 +2,7 @@
 tags: [Control, Recursión]
 ---
 
-# [C1 2017-1] Datos del Censo 
+# [C1 2017-1] Datos del Censo 🧑‍🤝‍🧑
 
 Para el censo, los datos de una persona se codificarán en un entero de 9 dígitos, en la siguiente forma:
 

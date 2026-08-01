@@ -1,9 +1,9 @@
 ---
 tags: [Control, Listas Indexadas, Ciclos Iterativos]
-dificultad: Díficil
+dificultad: Difícil
 ---
 
-# Montaña Rusa 🎢
+# Montaña Rusa 🎢 [C3 2025-2]
 
 Una montaña rusa se puede modelar como una lista de Python, en donde se almacenan las alturas con respecto al suelo de distintos puntos de tal montaña. Por ejemplo:
 

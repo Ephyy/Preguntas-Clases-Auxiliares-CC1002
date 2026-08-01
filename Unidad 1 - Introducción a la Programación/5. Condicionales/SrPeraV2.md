@@ -1,8 +1,9 @@
 ---
 tags: [Condicionales, Función Interactiva]
+titulo: Sr Pera 🍐 (Variante 2)
 ---
 
-# Sr Pera (Variante 2)
+# Sr Pera 🍐 (Variante 2)
 
 Un muy amigo suyo de la “Universidad del Colo-Colo” esta aproblemado con el curso “*Cálculos Modernos*”, ya que no le ha ido muy bien. Este curso consta de 3 controles y un examen, y su amigo ya ha dado los dos primeros controles.
 

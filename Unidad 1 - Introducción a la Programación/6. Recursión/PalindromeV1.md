@@ -1,5 +1,6 @@
 ---
 tags: [Recursión]
+titulo: Palindrome (Variante 1)
 ---
 
 # Palindrome (Variante 1)

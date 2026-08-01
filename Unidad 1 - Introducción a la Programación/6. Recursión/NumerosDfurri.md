@@ -3,7 +3,7 @@ tags: [Recursión]
 dificultad: Difícil
 ---
 
-# Numeros de D’furrí
+# Numeros de D’furrí 🦊
 
 Un número se dice que es D’furrí (pronunciado «de-fuugi») si cumple la siguiente propiedad: \
 *«El resultado de la suma consecutiva de los dígitos de N, se encuentra presente como uno de los dígitos de N»*
