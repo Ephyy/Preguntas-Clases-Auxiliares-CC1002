@@ -3,7 +3,6 @@ tags: [Control, Condicionales, Módulos, Funciones]
 dificultad: Media
 ---
 
-
 # Dominó
 
 El **dominó** es un clásico juego de mesa que utiliza un conjunto de 28 fichas, cada una dividida en dos espacios con puntos (o "ojos") que van del 0 al 6, cubriendo todas las combinaciones posibles. 
@@ -16,11 +15,11 @@ Los jugadores colocan por turnos las fichas de forma que los puntos de los extre
 cada uno entre 1 y 7. \
   Por ejemplo el número **32** representa una ficha, que podría ser colocada en el juego como **3-2** o **2-3**.
 
-  ![Ficha Dominó](./img/domino1.png)
+  ![Ficha Dominó](./img/domino1.PNG)
 
 - Un **juego** se representa como un entero positivo que registra los valores de las fichas en el tablero. Por ejemplo, el número **3445511337** representa las siguientes fichas en juego:
 
-  ![Juego Dominó](./img/domino2.png) 
+  ![Juego Dominó](./img/domino2.PNG) 
 
 Se dispone del módulo `domino`, con las siguientes funciones:
 
