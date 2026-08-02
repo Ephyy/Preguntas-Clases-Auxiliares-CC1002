@@ -27,7 +27,7 @@ La primera l√≠nea corresponde a los encabezados de una tabla y las siguientes l√
   Por ejemplo, ```filtrarPorPista("carreras.csv", "Tokyo")``` genera el siguiente archivo `Tokyo.csv`:
 
   ```
-  fecha,pista,uma,posicion,tiempo_s txt
+  fecha,pista,uma,posicion,tiempo_s
   2025-06-02,Tokyo,Mejiro McQueen,1,120.1
   2025-06-04,Tokyo,Tokai Teio,3,98.4
   2025-06-07,Tokyo,Gold Ship,1,130.0
