@@ -1,6 +1,12 @@
 # Clases-Auxiliares-CC1002
 
-Repositorio compilatorio de preguntas de auxiliar hechas para el curso CC1002 - Introducción a la Progrmacion.
+Repositorio compilatorio de preguntas de auxiliar hechas para el curso CC1002 - Introducción a la Programación.
+
+## Sitio Web
+
+También existe un sitio web para acceder al contenido de este repositorio:
+
+🔗 **Disponible en:** https://progra.ephy.cl
 
 
 # Personas y contribuciones
