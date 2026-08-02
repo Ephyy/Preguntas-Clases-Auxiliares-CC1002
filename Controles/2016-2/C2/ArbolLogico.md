@@ -45,7 +45,7 @@ ABlog = AB(
 - Los valores de las hojas del árbol son `True` o `False` (de tipo `bool`) y los otros valores son los strings `"and"`, `"or"` o `"not"`.
 - En el caso del operador `not`, el operando se guarda en la rama derecha del árbol (y la rama izquierda queda vacía).
 
-**Bonus:**
+**Propuesto:**
 
 Escriba una función llamada ```expresion(A)```, que reciba un árbol binario como el representado anteriormente y entregue un `string` con la expresión lógica que representa (sin paréntesis).
 

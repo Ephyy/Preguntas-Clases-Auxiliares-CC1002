@@ -1,5 +1,5 @@
 ---
-tags: [Clases y Objetos, Interacción entre Objetos]
+tags: [Clases y Objetos]
 ---
 
 # Michigatitos 🐈⚔️
