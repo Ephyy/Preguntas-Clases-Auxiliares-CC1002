@@ -7,13 +7,10 @@ tags: [Programa Interactivo]
 Hay que implementar un programa interactivo que simule la compra de entradas para el evento _'Sunset'_ y la opción de agregar bebidas. El programa deberá interactuar con el usuario para recolectar la información necesaria y luego calcular el costo total de la compra de la siguiente forma:
 
 ```python
-¿Cuál es tu nombre?
->> Arianne
+>> ¿Cuál es tu nombre? Arianne
 Hola Arianne, ¡Bienvenido/a al sistema de compra de entradas para el Sunset! 
-¿Cuántas entradas quieres comprar?
->> 3
-¿Cuántas bebidas quieres agregar?
->> 2
+>> ¿Cuántas entradas quieres comprar? 3
+>> ¿Cuántas bebidas quieres agregar? 2
 El total a pagar por 3 entrada(s) y 2 bebida(s) es: $19000
 ¡Gracias por tu compra, Arianne!
 ```
