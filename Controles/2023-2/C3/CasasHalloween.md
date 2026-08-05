@@ -1,6 +1,6 @@
 ---
 tags: [Control, Listas Indexadas, Ciclos Iterativos]
-dificultad: Difícil
+dificultad: Muy difícil
 ---
 
 # Casas Halloween 🎃🏠
