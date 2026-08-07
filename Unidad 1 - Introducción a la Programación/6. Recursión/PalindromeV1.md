@@ -17,7 +17,7 @@ Indicaciones:
 - Por simplicidad, puede asumir que el número de más a la derecha no será un cero.
 - Le puede ser de utilidad usar la función ```digitos(N)``` vista en clases.
 
-b) Cree la función ```palindrome(N)`, que recibe un número entero positivo, y entrega True si el número se escribe igual al revés y al derecho, y False en caso contrario. Ejemplos:
+b) Cree la función ```palindrome(N)```, que recibe un número entero positivo, y entrega True si el número se escribe igual al revés y al derecho, y False en caso contrario. Ejemplos:
 - ```palindrome(1748)``` entrega ```False```
 - ```palindrome(1223221)``` entrega ```True```
 
