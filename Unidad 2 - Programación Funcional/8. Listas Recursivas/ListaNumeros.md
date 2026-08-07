@@ -1,5 +1,5 @@
 ---
-tags: [Recursión]
+tags: [Listas Recursivas]
 ---
 
 # Listas de Números
