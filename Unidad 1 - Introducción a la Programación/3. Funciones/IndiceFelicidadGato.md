@@ -5,7 +5,9 @@ tags: [Funciones]
 
 El Índice de Felicidad de un Gato (IFG) al recibir un churu, puede calcularse con la siguiente formula:
 
-$$ I = (\frac{3 \cdot G}{e^{H}}) \cdot (\frac{1 + ln(C)}{2}) $$
+$$ 
+I = (\frac{3 \cdot G}{e^{H}}) \cdot (\frac{1 + ln(C)}{2})
+$$
 
 - $C$ = Ganas de comer del gato. Es un factor aleatorio entre 1 y 10, donde 1 es pocas ganas y 10 muchas ganas.
 - $G$ = Gramos de churu consumidos.

@@ -10,7 +10,7 @@ Valentina estaba realizando unos experimentos en el laboratorio de Química, has
   
    **Hint:**  Le puede ser de utilidad usar la función desarrollada en la parte (1).
 
-**Hint:** Valentina le recuerda que, la fórmula de conversión de temperaturas Fahrenheit a Celsius, está dada por la ecuación´on:
+**Hint:** Valentina le recuerda que, la fórmula de conversión de temperaturas Fahrenheit a Celsius, está dada por la ecuación:
 
 $$ C = \frac{5}{9}(F-32) $$
 
