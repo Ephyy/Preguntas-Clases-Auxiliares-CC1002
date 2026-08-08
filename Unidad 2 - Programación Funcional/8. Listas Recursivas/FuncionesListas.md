@@ -2,7 +2,7 @@
 tags: [Listas Recursivas]
 ---
 
-# Listas 📋
+# Funciones Listas 📋
 En clases se vio la estructura lista y algunas funciones que operan con listas. Ahora realizaremos mas funcionalidades que permiten extender la utilidad de esta estructura (y su módulo lista).
 
 Para los ejemplos de enunciado, usaremos la siguiente lista:
@@ -40,4 +40,5 @@ inverso. Ejemplo:
 + Cree la función ```ultimo(L)```, que recibe una lista y entrega el último elemento de la lista. Ejemplo:
   - ```ultimo(Lej)``` entrega: ```6```
 
-
++ Una función llamada ```eliminar(L, e)```, que recibe una lista y un elemento, y devuelve una lista sin el elemento. En caso de que el elemento no este en la lista, entonces devuelve la lista intacta. En caso de que el elemento este repetido en la lista, entonces solo se elimina la primera aparición. Ejemplo: 
+  - ```eliminar(L,8)``` entrega: ```lista(5,lista('manzana',lista(6,listaVacia)))```
