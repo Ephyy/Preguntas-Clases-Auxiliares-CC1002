@@ -1,5 +1,5 @@
 ---
-tags: [Árboles Binarios, ABB]
+tags: [ABB, Árboles Binarios]
 ---
 
 # Árboles de Canciones
@@ -17,14 +17,14 @@ estructura.crear('Cancion','nombre duracion')
 
 Para ayudarle en su puesta en escena, le pide ayuda con lo siguiente:
 
-**a)** Cree la función ```agregarCancion(A,nombre,dur)```, que entrega el árbol $A$ con una nueva canción, de nombre y duración indicados. Ejemplo:
+1. Cree la función ```agregarCancion(A,nombre,dur)```, que entrega el árbol $A$ con una nueva canción, de nombre y duración indicados. Ejemplo:
 
-  - ```agregarCancion(abbCanciones, 'pythonisa', 180)``` agrega la canción a la derecha del nodo `'abs.. is fun'`.
+     - ```agregarCancion(abbCanciones, 'pythonisa', 180)``` agrega la canción a la derecha del nodo `'abs.. is fun'`.
 
-**b)** Cree la función ```duraderas(A, s)```, que dado un ABB de canciones y una cantidad de segundos, entrega una lista con las canciones de $A$ que duren al menos `s` segundos. Ejemplo:
+2. Cree la función ```duraderas(A, s)```, que dado un ABB de canciones y una cantidad de segundos, entrega una lista con las canciones de $A$ que duren al menos `s` segundos. Ejemplo:
   
-  - ```duraderas(abbCanciones, 300)``` entrega una lista con las canciones `'listaylor'` y `'la la lambda'`.
- 
-**Indicación:** Puede asumir que existe la función ```juntar(L1,L2)``` que pega el contenido de L2 al final de L1.
+     - ```duraderas(abbCanciones, 300)``` entrega una lista con las canciones `'listaylor'` y `'la la lambda'`.
+    
+      **Indicación:** Puede asumir que existe la función ```juntar(L1,L2)``` que pega el contenido de L2 al final de L1.
 
-**c)**  Cree la función ```repertorio(A)```, que dado un ABB de canciones, entrega una lista con todas las canciones de $A$ ordenadas por duración de menor a mayor.
+3.  Cree la función ```repertorio(A)```, que dado un ABB de canciones, entrega una lista con todas las canciones de $A$ ordenadas por duración de menor a mayor.
