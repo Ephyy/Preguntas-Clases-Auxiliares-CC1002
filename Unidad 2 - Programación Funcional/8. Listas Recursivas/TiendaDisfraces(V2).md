@@ -1,5 +1,6 @@
 ---
 tags: [Listas Recursivas, Estructuras, Abstracción Funcional]
+titulo: Tienda de Disfraces (Variante 2)
 ---
 
 # Tienda de Disfraces (Variante 2)
