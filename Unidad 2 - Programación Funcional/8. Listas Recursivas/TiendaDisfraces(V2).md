@@ -2,7 +2,7 @@
 tags: [Listas Recursivas, Estructuras, Abstracción Funcional]
 ---
 
-# Tienda de Disfraces
+# Tienda de Disfraces (Variante 2)
 
 Una tienda de disfraces se encontró el dia de hoy con una sorpresa, ¡Los disfraces se encontraban desordenados y desparramados en el suelo!. La gente encargada de la tienda logró organizar todos los disfraces en una lista. Además, cada disfraz posee los siguientes atributos:
 
