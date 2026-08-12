@@ -10,7 +10,7 @@ Una tienda de disfraces se encontró el dia de hoy con una sorpresa, ¡Los disfr
 # Disfraz: nombre(str) cantidad(int) talla(str)
 estructura.crear('Disfraz','nombre talla cantidad')
 
-LD = lista(Disfraz('fantasmita','XS',5),lista(Disfraz('fantasmita','S',0), lista(Disfraz('pirate','S',3),lista(Disfraz('esqueleto','M',5), lista(Disfraz('momia','M',0),lista(Disfraz('fantasmita','L',4), lista(Disfraz('momia','L',1),lista(Disfraz('esqueleto','XL',1), listaVacia))))))))
+LD = lista(Disfraz('fantasmita','XS',5),lista(Disfraz('fantasmita','S',0), lista(Disfraz('pirata','S',3),lista(Disfraz('esqueleto','M',5), lista(Disfraz('momia','M',0),lista(Disfraz('fantasmita','L',4), lista(Disfraz('momia','L',1),lista(Disfraz('esqueleto','XL',1), listaVacia))))))))
 ```
 
 Como necesitan vender muchos disfraces el día de hoy, necesitan resolver rápidamente diversos problemas (y con rápidamente, nos referimos a que usen astutamente abstracción funcional en la solución si es posible), con ayuda de las siguientes funciones:
