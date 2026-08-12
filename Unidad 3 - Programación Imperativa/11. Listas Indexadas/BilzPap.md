@@ -1,5 +1,5 @@
 ---
-tags: [Listas Indexadas]
+tags: [Listas Indexadas, Ciclos Iterativos]
 ---
 
 # Bilz y Pap 🔴🟡
