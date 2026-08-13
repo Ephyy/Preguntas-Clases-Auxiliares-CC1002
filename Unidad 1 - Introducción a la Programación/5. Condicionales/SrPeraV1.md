@@ -1,5 +1,5 @@
 ---
-tags: [Condicionales, Programa Interactivo, Módulos]
+tags: [Condicionales, Módulos, Funciones, Programa Interactivo]
 titulo: Sr Pera 🍐 (Variante 1)
 ---
 

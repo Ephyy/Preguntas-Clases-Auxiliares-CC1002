@@ -1,5 +1,5 @@
 ---
-tags: [Condicionales, Módulos, Programa Interactivo]
+tags: [Condicionales, Módulos, Funciones, Programa Interactivo]
 ---
 
 # Jugando con Triangulitos 📐

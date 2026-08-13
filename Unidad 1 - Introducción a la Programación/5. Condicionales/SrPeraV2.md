@@ -1,5 +1,5 @@
 ---
-tags: [Condicionales, Función Interactiva]
+tags: [Condicionales, Funciones, Función Interactiva]
 titulo: Sr Pera 🍐 (Variante 2)
 ---
 

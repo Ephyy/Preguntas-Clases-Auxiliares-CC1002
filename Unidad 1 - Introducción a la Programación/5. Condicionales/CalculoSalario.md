@@ -1,5 +1,5 @@
 ---
-tags: [Condicionales]
+tags: [Condicionales, Funciones]
 ---
 
 # Cálculo de Salario 🤑
