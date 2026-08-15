@@ -17,9 +17,9 @@ Tanto la posición del vidrio como la del estudiante son enteros entre el 1 y el
 
 ```python
 >>> destino_estudiante(10, 8)
-Herido
+'Herido'
 >>> destino_estudiante(5, 1)
-Salvado
+'Salvado'
 >>> destino_estudiante(6, 6)
-GG
+'GG'
 ```

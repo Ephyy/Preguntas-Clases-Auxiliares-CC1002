@@ -1,5 +1,6 @@
 ---
 tags: [Funciones, Programa Interactivo]
+dificultad: Fácil
 ---
 
 # Pizzas 🍕

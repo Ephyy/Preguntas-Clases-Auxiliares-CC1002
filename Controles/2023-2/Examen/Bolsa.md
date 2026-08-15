@@ -1,5 +1,6 @@
 ---
 tags: [Control, Clases y Objetos]
+dificultad: Media
 ---
 
 # La Bolsa 📦🍬 (Variante EX 2023-02)

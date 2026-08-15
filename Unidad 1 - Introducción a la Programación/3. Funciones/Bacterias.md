@@ -1,5 +1,6 @@
 ---
 tags: [Funciones]
+dificultad: Fácil
 ---
 
 # Población de Bacterias 🦠

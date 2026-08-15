@@ -1,5 +1,6 @@
 ---
 tags: [Programa Interactivo]
+dificultad: Fácil
 titulo: El Loro de Loreto 🦜
 ---
 
