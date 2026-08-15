@@ -2,7 +2,7 @@
 tags: [Árboles Binarios]
 ---
 
-# Arboles Magnéticos
+# Árboles Magnéticos
 
 Los arboles _magnéticos_ se definen como los arboles binarios cuyos nodos no pueden estar conectados a otros nodos que tengan el mismo contenido que el. Por definición, un `arbolVacio` y un árbol con 1 solo valor siempre se consideran magnéticos.Por ejemplo, de los siguientes árboles, los primeros dos son magnéticos, pero el tercero no. 
 

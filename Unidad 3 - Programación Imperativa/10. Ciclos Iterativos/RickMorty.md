@@ -2,7 +2,11 @@
 tags: [Ciclos Iterativos, Programa Interactivo]
 ---
 
-Rick & Morty se preparan para dar inicio a su nueva temporada, pero se han topado con un problema inesperado. Jerry, el padre de Morty, esta muy preocupado por el rendimiento de su hijo en matemáticas, por lo que le dice que si no mejora sus notas, no podrá participar de la nueva temporada. Cree un programa interactivo que ayude a Morty a estudiar las tablas de multiplicar, siguiendo un dialogo similar al que aparece mas abajo:
+# Morty y las tablas de multiplicar
+
+Rick & Morty se preparan para dar inicio a su nueva temporada, pero se han topado con un problema inesperado. Jerry, el padre de Morty, esta muy preocupado por el rendimiento de su hijo en matemáticas, por lo que le dice que si no mejora sus notas, no podrá participar de la nueva temporada. 
+
+Cree un programa interactivo que ayude a Morty a estudiar las tablas de multiplicar, siguiendo un dialogo similar al que aparece mas abajo:
 
 - Se generan dos números enteros al azar entre 1 y 9, y muestra en pantalla la
 operación de multiplicación entre ambos, y pide ingresar una respuesta.

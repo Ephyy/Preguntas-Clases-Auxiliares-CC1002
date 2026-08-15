@@ -1,5 +1,5 @@
 ---
-tags: [Árboles Binario]
+tags: [Árboles Binarios]
 ---
 
 # Árbol Expresiones Matemáticas
