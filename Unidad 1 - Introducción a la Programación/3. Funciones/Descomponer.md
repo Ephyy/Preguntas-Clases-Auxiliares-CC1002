@@ -1,5 +1,6 @@
 ---
 tags: [Funciones]
+dificultad: Fácil
 ---
 # Descomponer
 
@@ -11,3 +12,6 @@ unidad: 3
 decena: 2
 centena: 1
 ```
+
+**Indicaciones:**
+- Notar que la función debe mostrar en pantalla en lugar de retornar.
