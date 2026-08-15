@@ -2,7 +2,7 @@
 tags: [Funciones, Programa Interactivo]
 ---
 
-# Pizzas
+# Pizzas 🍕
 
 En la pizzería «Pizzas infinitas», donde no hay límite para el sabor, tienen la particularidad de que puedes elegir el radio que quieras que tenga tu pizza. Así es, puedes pedir pizzas de 17.5cm, 22.8cm o incluso 3.14cm, y obviamente el precio de la pizza aumenta con su tamaño, pero también aumenta la felicidad de sus clientes.
 
