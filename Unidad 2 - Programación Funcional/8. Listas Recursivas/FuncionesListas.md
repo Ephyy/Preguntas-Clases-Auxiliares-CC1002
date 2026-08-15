@@ -43,3 +43,5 @@ inverso. Ejemplo:
 
 + Una función llamada ```eliminar(L, e)```, que recibe una lista y un elemento, y devuelve una lista sin el elemento. En caso de que el elemento no este en la lista, entonces devuelve la lista intacta. En caso de que el elemento este repetido en la lista, entonces solo se elimina la primera aparición. Ejemplo: 
   - ```eliminar(L,8)``` entrega: ```lista(5,lista('manzana',lista(6,listaVacia)))```
+  
++ Una función llamada ```sonPares(L)```, que recibe una lista de elementos, y verifica si todos los elementos en la lista, son números pares o no, entregando ```True``` en ese caso, y ```False``` en caso contrario.
