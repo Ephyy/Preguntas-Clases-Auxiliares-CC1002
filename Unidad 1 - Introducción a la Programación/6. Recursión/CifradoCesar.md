@@ -24,25 +24,24 @@ Note que también se puede cifrar con una llave negativa. Por ejemplo, si tenemo
 
 Con esto, programe las siguientes funciones:
 
-**a)** Cree la función ```desplazar(d, k)```, que recibe un número entero positivo `d` de 1 dígito, y un número entero `k`. La función entrega el dígito que corresponde, luego de desplazar `d` una cantidad de `k` espacios.
+1. Cree la función ```desplazar(d, k)```, que recibe un número entero positivo `d` de 1 dígito, y un número entero `k`. La función entrega el dígito que corresponde, luego de desplazar `d` una cantidad de `k` espacios.
 
-Por ejemplo:
+    Por ejemplo:
 
-- ```desplazar(5, 2)``` entrega ```7```.
-- ```desplazar(5, -2)``` entrega ```3```.
-- ```desplazar(8, 5)``` entrega ```3```.
+    - ```desplazar(5, 2)``` entrega ```7```.
+    - ```desplazar(5, -2)``` entrega ```3```.
+    - ```desplazar(8, 5)``` entrega ```3```.
 
-**b)** Cree la función ```cesar(N, k)```, que recibe un número entero positivo de largo arbitrario, y un número entero. La función entrega el número que resulta luego de aplicar el cifrado de `k` sobre `N`.
+2. Cree la función ```cesar(N, k)```, que recibe un número entero positivo de largo arbitrario, y un número entero. La función entrega el número que resulta luego de aplicar el cifrado de `k` sobre `N`.
 
-Por ejemplo:
+    Por ejemplo:
 
-- ```cesar(14575, 4)``` entrega ```58919```.
-- ```cesar(14575, -4)``` entrega ```70131```.
+    - ```cesar(14575, 4)``` entrega ```58919```.
+    - ```cesar(14575, -4)``` entrega ```70131```.
 
-En caso de que el dígito de más a la izquierda, luego del desplazamiento, resulte en un cero, reemplazarlo por un `1`.
+    En caso de que el dígito de más a la izquierda, luego del desplazamiento, resulte en un cero, reemplazarlo por un `1`.
 
-- ```cesar(14575, -1)``` entrega ```13464```.
+    - ```cesar(14575, -1)``` entrega ```13464```.
 
-**Nota:**
-
-- Le puede servir usar un parámetro por omisión.
+    **Nota:**
+    - Le puede servir usar un parámetro por omisión.

@@ -3,7 +3,7 @@ tags: [Funciones]
 ---
 # Empresa Nissan 
 
-Una empresa llamada “Nissan”, vendedora de autos muy famosa, tiene los datos de las distancias recorridas de todos los autos que ha vendido hasta ahora (porque tienen un sensor especial). Debido a cierto error del sensor descubierto recientemente, todas estas distancias son medidas en Millas, pero los sistemas de la empresa necesitan los datos de las distancias medidas en Yardas y Metros.
+Una empresa llamada "Nissan", vendedora de autos muy famosa, tiene los datos de las distancias recorridas de todos los autos que ha vendido hasta ahora (porque tienen un sensor especial). Debido a cierto error del sensor descubierto recientemente, todas estas distancias son medidas en Millas, pero los sistemas de la empresa necesitan los datos de las distancias medidas en Yardas y Metros.
 
 Por lo tanto, le piden a Ud. que cree funciones en python, que permitan convertir distancias de Millas a Yardas y de Millas a Metros. Debido a la caña post-18, no se acuerda como se convierte de Millas a Metros directamente, pero si recuerda las demás equivalencias. Por esto, procederemos de la siguiente manera:
 

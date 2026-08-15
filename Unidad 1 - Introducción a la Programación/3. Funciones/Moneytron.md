@@ -1,6 +1,7 @@
 ---
 tags: [Funciones]
 ---
+
 # Moneytrón 🤖💲
 
 Un banco de presencia internacional ha creado un robot de nombre Moneytrón, cuya misión es convertir monedas entre Pesos chilenos (CLP), Dolares (USD) y Libras (GBP). Se suponía que debía ser un conversor universal, sin embargo, debido a una explosión en sus circuitos, las funciones de convertir de CLP a USD, de USD a GBP y de CLP a GBP dejaron de funcionar.

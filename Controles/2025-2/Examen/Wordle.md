@@ -23,31 +23,34 @@ En esta pregunta, implementaremos una variante de este juego, con las siguientes
 - La palabra secreta no tendrá letras repetidas.
 - Hay ilimitados intentos para adivinar la palabra secreta.
 
-+ **(3.0p)** Escriba la función ```comparar(Psecreta, Ppropuesta)```, la que recibe dos Strings, el primero con la palabra secreta y el segundo con la palabra propuesta. La función retorna una lista de Python con los resultados de la comparación. Cada elemento de la lista contiene la letra inicial de cada color ('R', 'A', 'V’), de acuerdo con las reglas anteriores. Asuma que ambos Strings siempre tendrán el mismo largo, mayor o igual a 1, pero desconocido. Por ejemplo:
-  - ```comparar('MENTA', 'CANTO')``` entrega: ```['R', 'A', 'V', 'V', 'R']```
-  - ```comparar('MENTA', 'MENTA')``` entrega: ```['V', 'V', 'V', 'V', 'V']```
-  - ```comparar('MAGNITUD', 'SUBLIMAR')``` entrega: ```['R', 'A', 'R', 'R', 'V', 'A', 'A', 'R']```
+1. **(3.0p)** Escriba la función ```comparar(Psecreta, Ppropuesta)```, la que recibe dos Strings, el primero con la palabra secreta y el segundo con la palabra propuesta. La función retorna una lista de Python con los resultados de la comparación. Cada elemento de la lista contiene la letra inicial de cada color ('R', 'A', 'V’), de acuerdo con las reglas anteriores. Asuma que ambos Strings siempre tendrán el mismo largo, mayor o igual a 1, pero desconocido. 
+   
+    Por ejemplo:
+    
+    - ```comparar('MENTA', 'CANTO')``` entrega: ```['R', 'A', 'V', 'V', 'R']```
+    - ```comparar('MENTA', 'MENTA')``` entrega: ```['V', 'V', 'V', 'V', 'V']```
+    - ```comparar('MAGNITUD', 'SUBLIMAR')``` entrega: ```['R', 'A', 'R', 'R', 'V', 'A', 'A', 'R']```
   
-+ **(3.0p)** Escriba un programa interactivo, que permita simular el siguiente dialogo del juego:
+2. **(3.0p)** Escriba un programa interactivo, que permita simular el siguiente dialogo del juego:
 
-  ```python
-  ingrese dificultad: 5
+    ```python
+    ingrese dificultad: 5
 
-  >>> ingrese palabra: CANTO
-  Resultado: R-A-V-V-R
+    >>> ingrese palabra: CANTO
+    Resultado: R-A-V-V-R
 
-  >>> ingrese palabra: MONTE
-  Resultado: V-R-V-V-A
+    >>> ingrese palabra: MONTE
+    Resultado: V-R-V-V-A
 
-  ... (luego de varios intentos más) ...
+    ... (luego de varios intentos más) ...
 
-  >>> ingrese palabra: MENTA
-  Has adivinado la palabra secreta en 6 intentos
-  ```
+    >>> ingrese palabra: MENTA
+    Has adivinado la palabra secreta en 6 intentos
+    ```
 
-Indicaciones:
-- Las líneas marcadas con `>>>` es donde se espera que una persona ingrese un dato.
-- La dificultad corresponde al largo de la palabra secreta, un número entero mayor o igual a 1.
-- Debe repetir el ciclo de interacción hasta que se adivine la palabra secreta.
-- Debe contar la cantidad de intentos y mostrarlos en pantalla una vez adivinada la palabra secreta.
-- Puede suponer la existencia de la función `generarPalabra(N)`, que retorna una palabra de largo N sin letras repetidas. Úsela para generar la palabra secreta inicial.
+    Indicaciones:
+    - Las líneas marcadas con `>>>` es donde se espera que una persona ingrese un dato.
+    - La dificultad corresponde al largo de la palabra secreta, un número entero mayor o igual a 1.
+    - Debe repetir el ciclo de interacción hasta que se adivine la palabra secreta.
+    - Debe contar la cantidad de intentos y mostrarlos en pantalla una vez adivinada la palabra secreta.
+    - Puede suponer la existencia de la función `generarPalabra(N)`, que retorna una palabra de largo N sin letras repetidas. Úsela para generar la palabra secreta inicial.
