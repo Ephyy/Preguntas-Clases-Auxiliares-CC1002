@@ -2,7 +2,7 @@
 tags: [Listas Recursivas, Estructuras]
 ---
 
-# Supermercado 🛒🥗
+# Supermercado Vegan 🛒🥗
 
 Valentina va periódicamente al supermercado a comprar comida para sobrevivir en en dia a dia en la universidad. Como en un supermercado hay mucha variedad de alimentos, los datos que mas le interesan a ella de un alimento son su nombre, el precio (en pesos), las calorías (en kcal), y si es un alimento vegan-friendly o no. El problema es que a veces, debido a lo caótico que puede resultar comprar en un supermercado, compra alimentos que no le gustan, o llega a la caja y no tiene dinero suficiente para comprar todo lo que tiene en su carrito de compras. 
 
