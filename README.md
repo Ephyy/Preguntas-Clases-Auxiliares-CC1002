@@ -9,13 +9,13 @@ También existe un sitio web para acceder al contenido de este repositorio:
 🔗 **Disponible en:** https://progra.ephy.cl
 
 
-# Personas y contribuciones
-Agradecimientos a todas las personas que han participado en la creación de alguno de los problemas.
+# Agradecimientos y contribuciones
+Agradecimientos a todas las personas del Team CVV que han participado en la creación de alguno de los problemas.
 
 - [Valentin Muñoz](https://github.com/valentitos) 
 - [Cristian Parra](https://github.com/criparra)
-- [Vicente Ardiles](https://github.com/Ephyy)
 - [Vanessa Gaete](https://github.com/VanessaGaete)
+- [Vicente Ardiles](https://github.com/Ephyy)
 - [Monserrat Prado](https://github.com/monsita101)
 - [Julieta Coloma](https://github.com/asouris)
 - Arianne Peña
