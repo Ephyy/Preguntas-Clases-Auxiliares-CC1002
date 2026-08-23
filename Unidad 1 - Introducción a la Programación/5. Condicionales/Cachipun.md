@@ -1,5 +1,6 @@
 ---
 tags: [Condicionales, Programa Interactivo]
+dificultad: Media
 ---
 
 # Cachipún
