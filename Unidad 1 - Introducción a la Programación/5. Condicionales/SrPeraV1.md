@@ -14,11 +14,11 @@ El Sr. Pera, anticipándose al fin de semestre, desea hacer un programa en Pytho
 
 Con esto, para lograr ayudar al Sr. Pera, se le sugiere partir creando un modulo llamado calculoNotas, que contenga las siguientes funciones:
 
-**a)** Una función llamada `eximido`, que recibe 3 notas de control, y entrega como resultado True, si con esas notas se exime, y False si no. 
+1. Una función llamada `eximido`, que recibe 3 notas de control, y entrega como resultado True, si con esas notas se exime, y False si no. 
 
-**b)** Una función llamada `notaExamen`, que recibe el promedio de notas de control, y entrega como resultado, la nota mínima que se necesita en el examen, para pasar el curso.
+2. Una función llamada `notaExamen`, que recibe el promedio de notas de control, y entrega como resultado, la nota mínima que se necesita en el examen, para pasar el curso.
 
-**c)** Una función llamada `notaSegunda`, que recibe el promedio de notas de control, y entrega como resultado, la nota mínima necesaria en el examen, que permite rendir el examen de segunda.
+3. Una función llamada `notaSegunda`, que recibe el promedio de notas de control, y entrega como resultado, la nota mínima necesaria en el examen, que permite rendir el examen de segunda.
 
 Finalmente, con ayuda de este modulo, se quiere crear un programa interactivo en otro archivo, que pregunte al Sr.Pera por las 3 notas de control, e indique las notas que necesita para pasar el curso en el examen, o llegar al examen de segunda. En caso de que con las notas recibidas:
 - Se encuentre eximido
