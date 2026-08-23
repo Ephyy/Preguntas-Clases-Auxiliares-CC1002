@@ -10,12 +10,13 @@ También existe un sitio web para acceder al contenido de este repositorio:
 
 
 # Personas y contribuciones
-Agradicimientos a todas las personas que han participado en la creación de alguno de los problemas.
+Agradecimientos a todas las personas que han participado en la creación de alguno de los problemas.
 
 - [Valentin Muñoz](https://github.com/valentitos) 
-- Cristian Parra
+- [Cristian Parra](https://github.com/criparra)
 - [Vicente Ardiles](https://github.com/Ephyy)
 - [Vanessa Gaete](https://github.com/VanessaGaete)
 - [Monserrat Prado](https://github.com/monsita101)
 - [Julieta Coloma](https://github.com/asouris)
 - Arianne Peña
+- [Beatriz Oyarzo](https://github.com/puchabea)
