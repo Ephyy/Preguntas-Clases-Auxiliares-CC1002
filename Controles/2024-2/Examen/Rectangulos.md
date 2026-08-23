@@ -16,7 +16,7 @@ R3 = Rectangulo(4, 1, 6, 0)
 R4 = Rectangulo(2, 3, 3, 1)
 ```
 
-![Rectangulo](./img/rectangulo.png)
+![Rectangulo](./img/rectangulo.PNG)
 
 
 Al respecto, programe las siguientes funciones:
@@ -40,7 +40,7 @@ Al respecto, programe las siguientes funciones:
                 AB(T5, arbolVacio, arbolVacio)))
   ```
 
-  ![Árbol Binario de Rectángulos](./img/rectangulo(parte2).png)
+  ![Árbol Binario de Rectángulos](./img/rectangulo(parte2).PNG)
 
   Los Rectángulos `T2` y `T3` están contenidos en `T1` y a su vez, `T4` y `T5` están contenidos en `T3`.
 

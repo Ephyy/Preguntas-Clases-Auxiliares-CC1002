@@ -24,13 +24,13 @@ no se moverá.
 moverse más de dos casillas en un solo movimiento, entonces no
 se moverá.
 
-  ![Ajedrez](./img/ajedrez.png)
+  ![Ajedrez](./img/ajedrez.PNG)
 
 Al respecto:
 
 + **(3.0 p)** Escriba un programa que cree un objeto de la clase `Rey` en las coordenadas (1,1). Luego, el rey tiene que moverse en el tablero, siguiendo la trayectoria mostrada en la imagen de la derecha, es decir, debe pasar por el borde inferior, la diagonal principal y el borde superior del tablero. Además, debe mostrar en pantalla la posición del rey cada vez que se encuentre en una esquina del tablero.
 
-  ![Ajedrez Parte A](./img/ajedrez(parte_a).png)
+  ![Ajedrez Parte A](./img/ajedrez(parte_a).PNG)
 
 + **(3.0 p)** Escriba el método `mover` de la clase `Rey`. Considere que la representación de un objeto de la clase `Rey` se define con dos atributos (variables de instancia) de tipo entero, que representan su posición en `x` e `y` respectivamente. No incluya testing.
 

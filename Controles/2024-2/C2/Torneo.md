@@ -6,7 +6,7 @@ tags: [Control, Árboles Binarios]
 
 Los resultados de un campeonato deportivo por eliminación se representan en un árbol binario (AB) que contiene Strings. Por ejemplo, el árbol binario `ABTorneo1` de la figura representa un campeonato donde el ganador fue **H** (note que **H** jugó contra **G**, **E** y **B**):
 
-![Árbol Torneo](./img/arbol_torneo.png)
+![Árbol Torneo](./img/arbol_torneo.PNG)
 
 El número de rondas del campeonato de un árbol es desconocido. Suponga que todas las rondas están llenas (es decir, se jugaron todos los juegos de todas las rondas).
 
@@ -14,7 +14,7 @@ Note que, en un árbol correcto (como el de arriba), el valor de un nodo siempre
 
 Por otro lado, el árbol binario `ABTorneo2` de la figura de la derecha, no representa un árbol de torneo válido, pues no se cumple lo anterior (ninguno de los hijos del nodo H, tienen su mismo valor)
 
-![Árbol Torneo 2](./img/arbol_torneo2.png)
+![Árbol Torneo 2](./img/arbol_torneo2.PNG)
 
 Considerando la siguiente definición de árbol binario:
 
