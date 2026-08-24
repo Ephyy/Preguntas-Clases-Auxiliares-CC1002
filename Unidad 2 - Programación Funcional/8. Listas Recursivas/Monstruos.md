@@ -1,5 +1,6 @@
 ---
-tags: [Listas Recursivas]
+tags: [Listas Recursivas, Estructuras]
+dificultad: Media
 ---
 
 # Monstruos 👾

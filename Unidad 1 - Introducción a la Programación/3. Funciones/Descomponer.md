@@ -4,7 +4,7 @@ dificultad: Fácil
 ---
 # Descomponer
 
-Cree una función llamada descomponer, que dado un número de 3 cifras, separe las cifras del número, y muestre en pantalla el siguiente diálogo:
+Cree una función llamada `descomponer`, que dado un número de 3 cifras, separe las cifras del número, y muestre en pantalla el siguiente diálogo:
 
 ```python
 >> descomponer(123)

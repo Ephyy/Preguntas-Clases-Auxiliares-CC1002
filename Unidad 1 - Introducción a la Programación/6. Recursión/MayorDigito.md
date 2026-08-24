@@ -1,5 +1,6 @@
 ---
 tags: [Recursión]
+dificultad: Media
 ---
 
 # Mayor Dígito
@@ -9,4 +10,4 @@ Cree una función recursiva de encabezado ```mayorDigito(n)``` , que recibe un n
 Ejemplo:
 
 - ```mayorDigito(123)``` entrega ```3```
-- ```mayorDigito(547)``` entrega ```7```.
+- ```mayorDigito(547)``` entrega ```7```

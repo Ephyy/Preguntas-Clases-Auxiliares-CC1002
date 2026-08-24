@@ -1,5 +1,5 @@
 ---
-tags: [Listas Recursivas]
+tags: [Listas Recursivas, Estructuras]
 ---
 
 # Lista de Tareas 📝
@@ -28,34 +28,34 @@ Con lo anterior:
 
 Usando estas estructuras, programe las siguientes funciones:
 
-+ Cree la función ```mostrarTareas(L)```, que recibe una lista de `Tarea`, y muestra en pantalla todas las tareas, línea por línea, de acuerdo al formato del siguiente ejemplo:
-
-  ```python
-  >>> mostrarTareas(Ltareas)
-  pasear al doggo - no completada - 20240926
-  estudiar para el control de álgebra - no completada - 20240925
-  comprar almuerzo - completada - 20240923
-  Entregar la tarea de biología - no completada - 20240530
-  Hacer un meme - completada - 20241001
-  ```
-
-+ Cree la función ```pendientes(L)```, que recibe una lista de `Tarea` y entrega una lista de las `Tarea` que se encuentren pendientes (no completadas).
-
-  Ejemplo:
-
-  - ```pendientes(Ltareas)``` entrega:
+1. Cree la función ```mostrarTareas(L)```, que recibe una lista de `Tarea`, y muestra en pantalla todas las tareas, línea por línea, de acuerdo al formato del siguiente ejemplo:
 
     ```python
-    lista(T1, lista(T2, lista(T4, listaVacia)))
+    >>> mostrarTareas(Ltareas)
+    pasear al doggo - no completada - 20240926
+    estudiar para el control de álgebra - no completada - 20240925
+    comprar almuerzo - completada - 20240923
+    Entregar la tarea de biología - no completada - 20240530
+    Hacer un meme - completada - 20241001
     ```
 
-+ Cree la función ```urgente(L, fechahoy)```, que recibe una lista de `Tarea` no completadas, y la fecha de hoy (en formato `AAAAMMDD`), y entrega la tarea que es más urgente de completar (la que hay que completar pronto, dado que se acerca su fecha límite para completarla). En caso de que exista más de una `Tarea` urgente en la lista, entonces solo entregue la primera que encontró.
+2. Cree la función ```pendientes(L)```, que recibe una lista de `Tarea` y entrega una lista de las `Tarea` que se encuentren pendientes (no completadas).
 
-  Ejemplo:
+    Ejemplo:
 
-  - Suponiendo que tenemos en la variable `Lpend` la lista de tareas pendientes entregada por la función anterior:
+    - ```pendientes(Ltareas)``` entrega:
 
-    ```python
-    urgente(Lpend, 20240924)
-    # Tarea("estudiar para el control de álgebra", False, 20240925)
-    ```
+      ```python
+      lista(T1, lista(T2, lista(T4, listaVacia)))
+      ```
+
+3. Cree la función ```urgente(L, fechahoy)```, que recibe una lista de `Tarea` no completadas, y la fecha de hoy (en formato `AAAAMMDD`), y entrega la tarea que es más urgente de completar (la que hay que completar pronto, dado que se acerca su fecha límite para completarla). En caso de que exista más de una `Tarea` urgente en la lista, entonces solo entregue la primera que encontró.
+
+    Ejemplo:
+
+    - Suponiendo que tenemos en la variable `Lpend` la lista de tareas pendientes entregada por la función anterior:
+
+      ```python
+      urgente(Lpend, 20240924)
+      # Tarea("estudiar para el control de álgebra", False, 20240925)
+      ```

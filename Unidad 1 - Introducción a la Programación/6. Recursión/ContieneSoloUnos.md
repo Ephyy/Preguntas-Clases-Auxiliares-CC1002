@@ -1,5 +1,6 @@
 ---
 tags: [Recursión]
+dificultad: Fácil
 ---
 
 #  Contiene solo unos 1️

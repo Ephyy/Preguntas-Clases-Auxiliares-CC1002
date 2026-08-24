@@ -12,14 +12,14 @@ tags: [Funciones, Programa Interactivo]
   
 2. Implemente un programa interactivo que usando la función anterior, represente el siguiente dialogo:
 
-```python
-Calculadora de distancia euclidiana :)
->> Ingrese x1: 0
->> Ingrese y1: 0
->> Ingrese x2: 3
->> Ingrese y2: 4
+    ```python
+    Calculadora de distancia euclidiana :)
+    >> Ingrese x1: 0
+    >> Ingrese y1: 0
+    >> Ingrese x2: 3
+    >> Ingrese y2: 4
 
-Distancia: 5.0
-```
+    Distancia: 5.0
+    ```
 
 

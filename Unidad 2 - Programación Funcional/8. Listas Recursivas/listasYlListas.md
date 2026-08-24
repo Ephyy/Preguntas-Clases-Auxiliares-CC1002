@@ -1,5 +1,6 @@
 ---
 tags: [Listas Recursivas]
+dificultad: Media
 ---
 
 # Listas y Listas

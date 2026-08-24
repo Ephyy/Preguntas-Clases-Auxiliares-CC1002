@@ -1,5 +1,5 @@
 ---
-tags: [Recursión, Módulos]
+tags: [Recursión, Módulos, Programa Interactivo]
 ---
 
 # Tiendita

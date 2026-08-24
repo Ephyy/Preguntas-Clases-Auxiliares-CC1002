@@ -1,5 +1,6 @@
 ---
 tags: [Recursión]
+dificultad: Fácil
 ---
 
 # Multiplicar dígitos
