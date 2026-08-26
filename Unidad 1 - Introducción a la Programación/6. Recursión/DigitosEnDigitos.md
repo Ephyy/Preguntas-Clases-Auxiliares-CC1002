@@ -1,5 +1,5 @@
 ---
-tags: Recursión
+tags: [Recursión]
 dificultad: Media
 ---
 
