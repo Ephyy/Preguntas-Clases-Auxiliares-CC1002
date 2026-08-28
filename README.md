@@ -13,3 +13,6 @@ Agradicimientos a todas las personas que han participado en la creación de algu
 - [Monserrat Prado](https://github.com/monsita101)
 - [Julieta Coloma](https://github.com/asouris)
 - Arianne Peña
+- [Vicente Cepeda](https://www.linkedin.com/in/vicente-cepeda-a56610214?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- [Felipe Arriagada](https://github.com/xXTheNyanLord777Xx)
+- [Benjamin Alvarado](https://github.com/ElVenJi)
