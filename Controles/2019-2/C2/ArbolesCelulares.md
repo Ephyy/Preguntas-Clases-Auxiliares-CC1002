@@ -24,21 +24,21 @@ Por ejemplo, el siguiente árbol binario es **celular**:
 
 Al respecto, escriba las siguientes funciones:
 
-- Escriba la función `esCelular(A)`, que recibe un árbol binario, y entrega `True` si es que corresponde a un árbol celular (y `False` en cualquier otro caso).
++ Escriba la función ```esCelular(A)```, que recibe un árbol binario, y entrega ```True``` si es que corresponde a un árbol celular (y ```False``` en cualquier otro caso).
 
   Ejemplo:
 
-  - `esCelular(ACel1)` entrega `True`.
+  - ```esCelular(ACel1)``` entrega ```True```.
 
-- Se define el **decaimiento celular** para cada valor de un árbol celular, como la diferencia entre el valor de un nodo y la suma de los valores de sus hijos izquierdo y derecho. Por ejemplo:
++ Se define el **decaimiento celular** para cada valor de un árbol celular, como la diferencia entre el valor de un nodo y la suma de los valores de sus hijos izquierdo y derecho. Por ejemplo:
 
   - El decaimiento del nodo de valor `100` es `1`, pues `(100 - (47 + 52))` es `1`.
   - El decaimiento del nodo de valor `47` es `11`, pues `(47 - (18 + 18))` es `11`.
   - El decaimiento del nodo de valor `52` es `13`, pues `(52 - 39)` es `13`.
   - El decaimiento de los nodos hoja (`18`, `18` y `39`) es `0`.
 
-  Escriba la función `decaimiento(A)`, que recibe un árbol binario celular, y calcula el decaimiento total del árbol (es decir, la suma del decaimiento de todos sus nodos).
+  Escriba la función ```decaimiento(A)```, que recibe un árbol binario celular, y calcula el decaimiento total del árbol (es decir, la suma del decaimiento de todos sus nodos).
 
   Por ejemplo:
 
-  - `decaimiento(A)` entrega `25`.
+  - ```decaimiento(A)``` entrega ```25```.

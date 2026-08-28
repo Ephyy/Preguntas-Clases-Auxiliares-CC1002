@@ -1,23 +1,23 @@
 ---
-tags: [Funciones, Módulos, Programa Interactivo]
+tags: [Módulos, Funciones, Programa Interactivo]
 ---
 
-# Números Complejos
+# Números Complejos (Módulo)
 
 Recordemos que la formula de euler para números complejos establece que:
 
-$$ e^{i\theta} = cos(\theta) + i \cdot sen(\theta) $$
+$$ e^{i\theta} = cos(\theta) + i \cdot sin(\theta) $$
 
 Donde $i$ es la unidad imaginaria y $\theta$ es un ángulo en radianes
 
-Crearemos un **módulo** llamado `trigonometria.py` con las siguientes funciones:
+Crearemos un **módulo** llamado ```trigonometria.py``` con las siguientes funciones:
 
-1. La función `parteReal(angulo)` que recibe un ángulo en sistema sexagesimal
+1. La función ```parteReal(angulo)``` que recibe un ángulo en sistema sexagesimal
 y retorne su coseno.
 
-2. La función `parteImaginaria(angulo)` que recibe un ángulo en sistema sexagesimal y entregue su seno.
+1. La función ```parteImaginaria(angulo)``` que recibe un ángulo en sistema sexagesimal y entregue su seno.
 
-3. Ahora, en **otro archivo**, cree un script llamado `interactivo.py`, que importe el módulo `trigonometria.py` y genere el siguiente dialogo:
+2. Ahora, en **otro archivo**, cree un script llamado ```interactivo.py```, que importe el módulo ```trigonometria.py``` y genere el siguiente dialogo:
 
     ```python
     >> Angulo? 180   // recibe el ángulo como input

@@ -1,8 +1,9 @@
 ---
 tags: [Control, Clases y Objetos]
+dificultad: Media
 ---
 
-# La Bolsa (Variante EX 2023-02) 📦🍬
+# La Bolsa 📦🍬 (Variante EX 2023-02)
 
 En el contexto de un concurso sorpresa, un grupo de Auxiliares necesita crear una Clase que permita modelar una Bolsa, de la cual se puedan ingresar dulces, y extraerlos al azar. La siguiente tabla describe los métodos disponibles de la clase:
 

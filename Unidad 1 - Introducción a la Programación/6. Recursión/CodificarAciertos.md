@@ -4,7 +4,7 @@ tags: [Recursión]
 
 # Codificar Aciertos
 
-Cree una función llamada `codificarAciertos` que recibe dos números enteros positivos n1 y n2, y devuelve los aciertos y las fallas, codificadas en un número cuyos dígitos son solo unos y nueves. Se puede visualizar el comportamiento de la función con el siguiente ejemplo:
+Cree una función llamada `codificarAciertos` que recibe dos números enteros positivos `n1` y `n2`, y devuelve los aciertos y las fallas, codificadas en un número cuyos dígitos son solo unos y nueves. Se puede visualizar el comportamiento de la función con el siguiente ejemplo:
 
 ![codificar Aciertos](./img/CodificarAciertos.PNG)
 

@@ -1,5 +1,6 @@
 ---
 tags: [Errores]
+dificultad: Fácil
 ---
 
 # Encontrar el error

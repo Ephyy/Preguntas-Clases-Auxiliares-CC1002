@@ -1,8 +1,8 @@
 ---
-tags: [Control, Listas Recursivas, Estructura]
+tags: [Control, Listas Recursivas, Estructuras]
 ---
 
-# Listas de Torniquetes (P1 C2 2019-02)
+# Torniquetes 851 (P1 C2 2019-02)
 
 Los torniquetes de entrada a la facultad manejan una lista que mantiene el RUT de las personas que ingresan y la cantidad de veces que han ingresado durante el día:
 
@@ -20,7 +20,7 @@ LP = lista(p1, lista(p2, listaVacia))
 
 Use las funciones del módulo `lista` (y eventualmente otras que haya visto en clases), para escribir las siguientes funciones:
 
-- **(4.0p)** La función `ingresar(rut, Lpers)`, que recibe un RUT y una lista de personas, y registra el ingreso de una persona.
++ **(4.0p)** La función ```ingresar(rut, Lpers)```, que recibe un RUT y una lista de personas, y registra el ingreso de una persona.
 
   - Si la persona ya existía en la lista, entonces se debe incrementar su cantidad de ingresos.
   - Si la persona no existe en la lista, entonces se debe agregar al final.
@@ -44,10 +44,10 @@ Use las funciones del módulo `lista` (y eventualmente otras que haya visto en c
                     listaVacia)))
   ```
 
-- **(2.0p)** La función `masIngresos(L)`, que recibe una lista de personas, y entrega la persona con más ingresos.
++ **(2.0p)** La función ```masIngresos(L)```, que recibe una lista de personas, y entrega la persona con más ingresos.
 
   Por ejemplo:
 
-  - `masIngresos(LP)` entrega `persona("234-0", 2)`.
+  - ```masIngresos(LP)``` entrega ```persona("234-0", 2)```.
 
   **Nota:** Puede suponer que solo hay una persona que registra la mayor cantidad de ingresos.

@@ -1,9 +1,8 @@
 ---
-title: Datos del Censo
 tags: [Control, Recursión]
 ---
 
-# **[C1 2017-1]** Datos del Censo 
+# Datos del Censo 🧑‍🤝‍🧑 [C1 2017-1]
 
 Para el censo, los datos de una persona se codificarán en un entero de 9 dígitos, en la siguiente forma:
 
@@ -15,11 +14,11 @@ Para el censo, los datos de una persona se codificarán en un entero de 9 dígit
 | 7°             | Estado civil     | 1 (soltero) o 2 (casado)   | 2       |
 | 8° y 9°        | Nacionalidad     | Entero ≥ 0 (ej. 00=chilena)| 00      |
 
-Al respecto, cree la función `obtenerDato(valor, dato)`, que reciba un número entero (que contiene los datos de una persona) y un string (que puede ser: "sexo", "edad", "hijos", "estado civil" o "pais"), y entregue un número entero con el valor indicado.
+Al respecto, cree la función ```obtenerDato(valor, dato)```, que reciba un número entero (que contiene los datos de una persona) y un string (que puede ser: "sexo", "edad", "hijos", "estado civil" o "pais"), y entregue un número entero con el valor indicado.
 
 Por ejemplo:
-- `obtenerDato(203503200,"edad")` entrega 35
-- `obtenerDato(203503200,"estado civil")` entrega 2
+- ```obtenerDato(203503200,"edad")``` entrega ```35```
+- ```obtenerDato(203503200,"estado civil")``` entrega ```2```
 
 **Notas:**
 - Haga un test para cada caso posible de dato.
